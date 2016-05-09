@@ -19,4 +19,4 @@ In addition to being a useful tool in itself, therefore, the command line gives 
 
 In the next section, we'll get started using the command line.
 
-[<<< Back](README.md) [Next >>>](navigation.md)
+[<<< Back](README.md)           [Next >>>](navigation.md)
