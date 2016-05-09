@@ -13,9 +13,9 @@ Some advantages of the command line:
 - Set up your programming environment.
 - Run programs you create.
 - Access the (many) programs and utilities that do not have graphical equivelants.
-- Control other computers remotely. (Useful when building or maintaining websites and applications.)
+- Control other computers remotely.
 
-In addition to being a useful tool in itself, therefore, the command line gives you access to a second set of programs and utilities and is a useful compliment to learning programming.
+In addition to being a useful tool in itself, therefore, the command line gives you access to a second set of programs and utilities and is a compliment to learning programming.
 
 In the next section, we'll get started using the command line.
 
