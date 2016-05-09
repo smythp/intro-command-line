@@ -7,4 +7,5 @@ In this session, we'll learn those common commands by exploring and manipulating
 
 
 [What's the command line?](what-is-the-command-line.md)  
+[Getting to the Command Line](getting-to-the-command-line.md)  
 [Navigation](navigation.md)  
