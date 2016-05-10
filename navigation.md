@@ -87,5 +87,3 @@ which will move you one directory up in the filesystem. That's a `cd` with two p
 ### Example:  
 
 ![Navigating the command line](nav.gif)
-
-
