@@ -13,4 +13,4 @@ In this session, we'll learn those common commands by exploring and manipulating
 ### Resources
 
 [Glossary](glossary.md)  
-[Commands](commands.md)  
+[Commands Cheat Sheet](commands.md)  
