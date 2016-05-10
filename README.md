@@ -9,6 +9,7 @@ In this session, we'll learn those common commands by exploring and manipulating
 [Getting to the Command Line](getting-to-the-command-line.md)  
 [Navigation](navigation.md)  
 [Creating files and folders](creating-files-and-folders.md)  
+[Creating a Cheat Sheet](creating_a_cheat_sheet.md)  
 
 ### Resources
 

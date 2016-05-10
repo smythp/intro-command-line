@@ -47,7 +47,7 @@ $ pwd
 
 OK, now you've got a projects folder that you can use throughout the Institute.
 
-[<<< Previous](navigation.md) - [Next >>>](Creating a Cheat Sheet)
+[<<< Previous](navigation.md) - [Next >>>](creating_a_cheat_sheet.md)
 
 ### Example
 
