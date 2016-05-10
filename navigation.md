@@ -84,7 +84,7 @@ which will move you one directory up in the filesystem. That's a `cd` with two p
 
 [<<< Previous](getting-to-the-command-line.md)) - [Next >>>](creating-files-and-folders.md)
   
-  
+### Example:  
 
 ![Navigating the command line](nav.gif)
 
