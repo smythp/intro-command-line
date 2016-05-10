@@ -5,13 +5,13 @@ The command line is a powerful way to interact with your computer, but it can se
 In this session, we'll learn those common commands by exploring and manipulating a simple data set. By the end of the session, you'll be able to navigate your computer, create and manipulate files, and transform text-based data using only the command line. 
 
 
-[What's the command line?](what-is-the-command-line.md)  
-[Getting to the Command Line](getting-to-the-command-line.md)  
-[Navigation](navigation.md)  
-[Creating files and folders](creating-files-and-folders.md)  
-[Creating a Cheat Sheet](creating_a_cheat_sheet.md)  
+[What's the command line?](sections/what-is-the-command-line.md)  
+[Getting to the Command Line](sections/getting-to-the-command-line.md)  
+[Navigation](sections/navigation.md)  
+[Creating files and folders](sections/creating-files-and-folders.md)  
+[Creating a Cheat Sheet](sections/creating_a_cheat_sheet.md)  
 
 ### Resources
 
-[Glossary](glossary.md)  
-[Commands Cheat Sheet](commands.md)  
+[Glossary](sections/glossary.md)  
+[Commands Cheat Sheet](sections/commands.md)  
