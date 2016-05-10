@@ -28,10 +28,7 @@ We won't be using Windows's own, non-UNIX version of the command line. Follow th
 5\. If you can't find the git folder, just type "git bash" in the search box and select "git bash" when it appears.  
 6\. You know you're in the right place when you see the `$`.  
 
-### Linux
+In the next section, we'll learn how to navigate the filesystem in the command line.
 
-If you're on Linux, figure it out.  
-  
-  
 
 [<<< Back](what-is-the-command-line.md) - [Next >>>](navigation.md)

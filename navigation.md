@@ -16,7 +16,7 @@ $ whoami
 
 The `whoami` command should print out your username. Congrats, you've executed your first command! This is a basic pattern of use in the command line: type a command and receive output.
 
-### Folders
+### Orienting Yourself in the Command line: Folders
 
 OK, we're going to try another command. But first, let's make sure we understand some things about how your computer's filesystem works.
 
@@ -60,7 +60,26 @@ $ cd Desktop
 So how do we know it worked? That's right, let's use our `pwd` command again. We should get
 
 ```
+$ pwd
 /Users/patrick/Desktop
 ```
 
+Now try `ls` again to see what's on your desktop. These three commands—`pwd`, `ls`, and `cd`—are the most commonly used in the terminal. Between them, you can orient yourself and move around. Before we move on, let's take a minute to move around in the command line
 
+# CHALLENGE THE FIRST
+
+Use the three commands you've just learned—`pwd`, `ls` and `cd`—eight (8) times each. Go poking around your Photos folder, or see what's so special about that scary root `/` directory. When you're done, come back to the home folder with 
+
+```
+cd ~
+```
+
+(That's a tilde, on the top left of your keyboard.) One more command you might find useful is 
+
+```
+cd ..
+```
+
+which will move you one directory up in the filesystem. That's a `cd` with two periods after it.
+
+[<<< Previous](what-is-the-command-line.md) - [Next >>>](creating-files-and-folders.md)

@@ -7,7 +7,7 @@ The command line is a text-based way of interacting with your computer. You may 
 
 Initially, the command line can seem like a weird and old-fashioned way of interacting with the computer. However, by using the command line, you're stepping away from an environment where things are done for you and moving into an environment where you have more control. Instead of ordering your food in a restaurant, you're stepping into the kitchen. It's more work, but there are also more possibilities. 
 
-Some advantages of the command line:
+The command line allows you to...
 
 - Easily automate tasks such as creating, copying, and converting files.
 - Set up your programming environment.
