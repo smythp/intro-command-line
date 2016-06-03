@@ -29,9 +29,14 @@ If the command succeeds, you won't see any output. Now move the terminal window 
 
 OK, so we're going to be doing a lot of work during the Digital Research Institute. Let's create a project folder in our home directory so that we can keep all our work in one place.
 
-First, head back to the home directory. You know the drill.
+First, let's check to make sure we're still in the Desktop folder with `pwd`:
 
-Once you've double-checked you're in the home directory, we'll use this command to make a folder:
+```
+$ pwd
+/Users/patrick/Desktop
+```
+
+Once you've double-checked you're in Desktop, we'll use this command to make a folder called "projects":
 
 ```
 mkdir projects
@@ -42,10 +47,10 @@ Now do `ls` to see if a projects folder has appeared. Once you confirm that the 
 ```
 $ cd projects
 $ pwd
-/Users/patrick/projects
+/Users/patrick/Desktop/projects
 ```
 
-OK, now you've got a projects folder that you can use throughout the Institute.
+OK, now you've got a projects folder that you can use throughout the Institute. It should be visible on your graphical desktop, just like the `foo.txt` file we created earlier. 
 
 [<<< Previous](navigation.md) - [Next >>>](creating_a_cheat_sheet.md)
 
