@@ -14,6 +14,8 @@
 
 `!!` - Run the last command. To run the last command you entered with administrative privileges, use `sudo !!`
 
+`*` - refer to all files and folders in a directory, i.e., `cat *.txt`
+
 `clear` or `<Control-l>` - Clear the terminal window.
 
 `which` - Show where a command is stored on your system, i.e. `which python`
