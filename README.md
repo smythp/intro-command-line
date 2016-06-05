@@ -6,10 +6,10 @@ In this session, we'll learn those common commands by exploring and manipulating
 
 
 [What's the command line?](sections/what-is-the-command-line.md)  
-[Getting to the Command Line](sections/getting-to-the-command-line.md)  
+[Getting to the command line](sections/getting-to-the-command-line.md)  
 [Navigation](sections/navigation.md)  
 [Creating files and folders](sections/creating-files-and-folders.md)  
-[Creating a Cheat Sheet](sections/creating_a_cheat_sheet.md)  
+[Creating a cheat sheet](sections/creating_a_cheat_sheet.md)  
 [Pipes](sections/pipes.md)  
 [Exploring text data](sections/data.md)  
 [Searching text data](sections/grep.md)  
