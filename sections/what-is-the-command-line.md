@@ -15,7 +15,7 @@ The command line allows you to...
 - Access the (many) programs and utilities that do not have graphical equivalents.
 - Control other computers remotely.
 
-In addition to being a useful tool in itself, therefore, the command line gives you access to a second set of programs and utilities and is a compliment to learning programming.
+In addition to being a useful tool in itself, the command line gives you access to a second set of programs and utilities and is a compliment to learning programming.
 
 In the next section, we'll get started using the command line.
 
