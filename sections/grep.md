@@ -24,9 +24,11 @@ Use the `grep` command to explore our .csv file a bit. What areas are best cover
 
 That's the end of the command line session, but if you want to continue to learn about the command line, take a look at the [other useful commands](other-commands.md) or [additional challenges](challenges.md).
 
+[<<< Previous](data.md) - [Next >>>](other-commands.md)
+
 ### Example
 
 ![Searching a text file with grep](grep.gif)
 
 
-[<<< Previous](data.md) - [Next >>>](other-commands.md)
+
