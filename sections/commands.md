@@ -23,6 +23,8 @@
 
 `rev` - Reverses the text you give it, i.e. `echo "Hello there" | rev` 
 
+`|` - Pipe symbol. Takes output from one command and uses it as input for another command.
+
 `less <filename>` - Print out the contents of a file in a paginated form. Use `<Control-v>` and `<Alt-v>` (or `<Command-v` and `<Option-v>`) to move up and down. Press `q` to quit.
 
 `head <filename>` - Print the first section of a file
