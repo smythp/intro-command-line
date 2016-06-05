@@ -10,7 +10,7 @@ If you're using OSX:
 3\. Select the first item that appears in the list.  
 4\. The terminal will look like this:  
 
-![Terminal in OSX](osx-term.png)
+![Terminal in OSX](osx_term.jpg)
 
 When you see the `$`, you're in the right place.
 
