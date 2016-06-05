@@ -25,6 +25,8 @@ Use the `grep` command to explore our .csv file a bit. What areas are best cover
 Before you leave today, let's prepare for the next session by organizing your projects folder on your desktop. First, in your projects folder, create a new folders for each of our workshops and one for our cheat sheet:
 
 ```
+$ pwd
+/Users/patrick/Desktop/projects
 $ mkdir git
 $ mkdir python
 $ mkdir databases
@@ -37,6 +39,7 @@ Then move your `cheat-sheet.txt` file into your `git` folder and your `nypl_item
 $ mv cheat-sheet.txt git
 $ mv nypl_items.csv databases
 ```
+
 ### What next?
 
 That's the end of the command line session, but if you want to continue to learn about the command line, take a look at the [other useful commands](other-commands.md) or [additional challenges](challenges.md).
