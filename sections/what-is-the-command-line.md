@@ -12,7 +12,7 @@ The command line allows you to...
 - Easily automate tasks such as creating, copying, and converting files.
 - Set up your programming environment.
 - Run programs you create.
-- Access the (many) programs and utilities that do not have graphical equivelants.
+- Access the (many) programs and utilities that do not have graphical equivalents.
 - Control other computers remotely.
 
 In addition to being a useful tool in itself, therefore, the command line gives you access to a second set of programs and utilities and is a compliment to learning programming.
