@@ -12,9 +12,14 @@ In this session, we'll learn those common commands by exploring and manipulating
 [Creating a Cheat Sheet](sections/creating_a_cheat_sheet.md)  
 [Pipes](sections/pipes.md)  
 [Exploring text data](sections/data.md)  
-[Free play](free.md)  
+[Searching text data](sections/grep.md)  
+
+
 
 ### Resources
 
-[Glossary](sections/glossary.md)  
 [Commands Cheat Sheet](sections/commands.md)  
+[Other useful commands](sections/other-commands.md)  
+[Further challenge](section/challenges.md)  
+[Glossary](sections/glossary.md)  
+
