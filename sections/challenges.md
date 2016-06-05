@@ -87,7 +87,7 @@ Last challenge! So you've made a real program in bash, you're probably feeling p
 sudo mv goto-projects.sh /bin/goto-projects
 ```
 
-This moves your script from its currect folder to the `/bin` folder and renames it from `goto-projects.sh` to `goto-projects`. Now close your terminal with `exit` and reopen it. Type 
+This moves your script from its current folder to the `/bin` folder and renames it from `goto-projects.sh` to `goto-projects`. Now close your terminal with `exit` and reopen it. Type 
 
 ````
 $ goto-projects
