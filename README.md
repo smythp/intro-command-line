@@ -11,10 +11,8 @@ In this session, we'll learn those common commands by exploring and manipulating
 [Creating files and folders](sections/creating-files-and-folders.md)  
 [Creating a Cheat Sheet](sections/creating_a_cheat_sheet.md)  
 [Pipes](sections/pipes.md)  
-[Cleaning text data](sections/data.md)  
-[Exploring your data]()  
-
-
+[Exploring text data](sections/data.md)  
+[Free play](free.md)  
 
 ### Resources
 
