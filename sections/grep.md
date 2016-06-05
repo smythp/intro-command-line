@@ -46,8 +46,8 @@ That's the end of the command line session, but if you want to continue to learn
 
 [<<< Previous](data.md)
 
-[Go to other commands >>>](other-commands.md)
-[Go to Further Challenges](challenges.md)
+[Go to other commands >>>](other-commands.md)  
+[Go to Further Challenges](challenges.md)  
 
 ### Example
 
