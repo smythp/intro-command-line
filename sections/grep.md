@@ -20,6 +20,23 @@ $ $ cat nypl_items.csv | grep -i "paris" | wc -l
 
 Use the `grep` command to explore our .csv file a bit. What areas are best covered by the data set?
 
+### Before we finish...
+
+Before you leave today, let's prepare for the next session by organizing your projects folder on your desktop. First, in your projects folder, create a new folders for each of our workshops and one for our cheat sheet:
+
+```
+$ mkdir git
+$ mkdir python
+$ mkdir databases
+$ mkdir cheatsheet
+```
+
+Then move your `cheat-sheet.txt` file into your `git` folder and your `nypl_items.csv` into your `databases` folder with the `mv` command:
+
+```
+$ mv cheat-sheet.txt git
+$ mv nypl_items.csv databases
+```
 ### What next?
 
 That's the end of the command line session, but if you want to continue to learn about the command line, take a look at the [other useful commands](other-commands.md) or [additional challenges](challenges.md).

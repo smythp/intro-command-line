@@ -8,7 +8,7 @@ Let's download the data we're going to work with:
 
 Once it's downloaded, move it from your Downloads folder to the `projects` folder on your desktop.
 
-Our data set is a list of public domain items from the New York Public Library. It's in .csv format, which is a plain text spreadsheet format. CSV stands for "comma seperated values," and each field in the spreadsheet is seperated with a comma.
+Our data set is a list of public domain items from the New York Public Library. It's in .csv format, which is a plain text spreadsheet format. CSV stands for "comma seperated values," and each field in the spreadsheet is seperated with a comma. It's all still plain text, though, so we can manipulate the data using the command line.
 
 ### Viewing data in the command line
 
@@ -36,7 +36,7 @@ These commands print out the first and last sections of the file respectively.
 
 ### Cleaning the data
 
-We didn't tell you this before, but there are duplicate lines in our data! Two, to be exact. Before we try removing them, let's see how many entires are in our .csv file:
+We didn't tell you this before, but there are duplicate lines in our data! Two, to be exact. Before we try removing them, let's see how many entries are in our .csv file:
 
 ```
 $ cat nypl_items.csv | wc -l
