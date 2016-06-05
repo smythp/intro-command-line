@@ -24,7 +24,9 @@ $ ls
 cheat-sheet.txt
 ```
 
-OK, so the file has been created. Let's check if there's any text in cheat-sheet.txt.
+OK, so the file has been created. But what was the `>` in the command we used? On the command line, a `>` is known as a "redirect." It takes the output of a command and puts it in a file. Be careful, since it's possible to overwrite files with the `>` command.
+
+Let's check if there's any text in cheat-sheet.txt.
 
 ```
 cat cheat-sheet.txt

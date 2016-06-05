@@ -6,14 +6,11 @@
 If you're using OSX:
 
 1\. Click the Finder button (the magnifying glass) in the top right of your desktop.  
-
-<gif>
-
 2\. Type "Terminal" into the bar that appears.   
 3\. Select the first item that appears in the list.  
 4\. The terminal will look like this:  
 
-<image>
+[Terminal in OSX](osx-term.png)
 
 When you see the `$`, you're in the right place.
 
