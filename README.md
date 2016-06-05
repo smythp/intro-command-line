@@ -20,6 +20,6 @@ In this session, we'll learn those common commands by exploring and manipulating
 
 [Commands cheat sheet](sections/commands.md)  
 [Other useful commands](sections/other-commands.md)  
-[Further challenges](section/challenges.md)  
+[Further challenges](sections/challenges.md)  
 [Glossary](sections/glossary.md)  
 
