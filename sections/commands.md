@@ -1,7 +1,5 @@
 ## Commands
 
-### Navigation
-
 `pwd` - show the current (or "working") directory. Stands for "print working directory"
 
 `ls` - show the files and folders in the working directory. I think of it as standing for "list stuff," but it's probably just short for "list."
