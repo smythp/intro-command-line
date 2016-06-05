@@ -58,7 +58,7 @@ change directory to home folder
 ...
 ```
 
-[<<< Previous](creating-files-and-folders.md) - [Next >>>]()
+[<<< Previous](creating-files-and-folders.md) - [Next >>>](pipes.md)
 
 ### Example
 
