@@ -26,7 +26,7 @@
 
 `rm` - This command can be dangerous, so use it carefully. Removes a file or files. If used with the wrong flags or in the wrong place, you can delete a lot of important files, so be careful with this one.
 
-`rmdir` - Remove an empty directory
+`rmdir` - Remove an empty directory.
 
 `.` and `..` - `.` refers to the folder you're in, while `..` refers to the folder above.
 
