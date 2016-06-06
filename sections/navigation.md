@@ -41,7 +41,7 @@ $ pwd
 
 You should get output like `/Users/patrick`. That means you're in the `patrick` directory in the `Users` folder inside the `/` or root directory. On Windows, your output would instead be `C:/Users/patrick`. The folder you're in is called the working directory, and `pwd` stands for "print working directory."
 
-OK, we know where we are. But what if we want to know what files and folders are in the `patrick` directory, a.k.a. the working directory? Try entering
+OK, we know where we are. But what if we want to know what files and folders are in the `patrick` directory, a.k.a. the working directory? Try entering:
 
 ```
 ls
