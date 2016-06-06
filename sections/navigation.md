@@ -64,7 +64,7 @@ $ pwd
 /Users/patrick/Desktop
 ```
 
-Now try `ls` again to see what's on your desktop. These three commands—`pwd`, `ls`, and `cd`—are the most commonly used in the terminal. Between them, you can orient yourself and move around. Before we move on, let's take a minute to move around in the command line
+Now try `ls` again to see what's on your desktop. These three commands—`pwd`, `ls`, and `cd`—are the most commonly used in the terminal. Between them, you can orient yourself and move around. Before we move on, let's take a minute to move around in the command line.
 
 # Challenge
 
