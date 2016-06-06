@@ -1,5 +1,5 @@
 
-### Further Challenges
+### Further challenges
 
 These challenges are ordered from easiest to hardest. Let [me](https://github.com/smythp) know you've completed them all and I'll give you a bag of candy! And no, it's not cheating if you ask for help.
 
