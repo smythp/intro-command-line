@@ -1,4 +1,4 @@
-## Creating a Cheat Sheet
+## Creating a cheat sheet
 
 In this section, we'll create a text file that we can use as a cheat sheet. You can use it to keep track of all the awesome commands you're learning. 
 
@@ -35,7 +35,7 @@ This is my cheat sheet
 
 As you can see, the `cat` command prints the contents of a file to the screen. 
 
-### Using a Text Editor
+### Using a text editor
 
 The challenge for this section will be using a text editor to add some of the commands that we've learned to the newly created cheat sheet. Text editors are programs that allow you to edit plain text files, such as .txt, .py (Python scripts), and .csv (spreadsheet files). Remember not to use programs such as Microsoft Word to edit text files, since they add invisible characters that can cause problems. During the Institute, we'll be using Sublime as our text editor.
 
