@@ -1,6 +1,6 @@
 ### Other useful commands
 
-`<tab>` - The `<tab>` key on your keybaord will complete names of commands and files. Start typing a filename and hit tab twice to see all possible acceptable completions. If there is only one possibility, the rest of the name will be filled in for you.
+`<tab>` - The `<tab>` key on your keyboard will complete names of commands and files. Start typing a filename and hit tab twice to see all possible acceptable completions. If there is only one possibility, the rest of the name will be filled in for you.
 
 `<up>` - The `<up>` key will fill in the last command you ran. Hit it multiple times to cycle through the last commands you've entered.
 
