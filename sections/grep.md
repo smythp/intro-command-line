@@ -2,7 +2,7 @@
 
 So we've cleaned our data set, but how do we find entries that use a particular term? 
 
-Say I want to find all the entries in our data set that use the term "Paris."
+Let's say I want to find all the entries in our data set that use the term "Paris."
 
 ```
 $ cat nypl_items.csv | grep -i "paris"
