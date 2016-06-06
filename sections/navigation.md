@@ -16,11 +16,11 @@ $ whoami
 
 The `whoami` command should print out your username. Congrats, you've executed your first command! This is a basic pattern of use in the command line: type a command and receive output.
 
-### Orienting Yourself in the Command line: Folders
+### Orienting yourself in the command line: folders
 
 OK, we're going to try another command. But first, let's make sure we understand some things about how your computer's filesystem works.
 
-Your computer's files are organized in what's known as a hierarchical file system. That means there's a top level or "root" folder on your system. That folder has other folders in it, and those folders have folders in them, and so on. You can draw these relationships in a tree:
+Your computer's files are organized in what's known as a hierarchical filesystem. That means there's a top level or "root" folder on your system. That folder has other folders in it, and those folders have folders in them, and so on. You can draw these relationships in a tree:
 
 ```
 Users
@@ -57,7 +57,7 @@ $ cd Desktop
 
 (Make sure the "D" in "Desktop" is capitalized. ) If the command was successful, you won't see any output. This is normal—often, the command line will succeed silently. 
 
-So how do we know it worked? That's right, let's use our `pwd` command again. We should get
+So how do we know it worked? That's right, let's use our `pwd` command again. We should get:
 
 ```
 $ pwd
