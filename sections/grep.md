@@ -22,7 +22,7 @@ Use the `grep` command to explore our .csv file a bit. What areas are best cover
 
 ### Before we finish...
 
-Before you leave today, let's prepare for the next session by organizing your projects folder on your desktop. First, in your projects folder, create a new folders for each of our workshops and one for our cheat sheet:
+Before you leave today, let's prepare for the next session by organizing your projects folder on your desktop. First, in your projects folder, create a new folder for each of our workshops and one for our cheat sheet:
 
 ```
 $ pwd
