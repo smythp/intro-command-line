@@ -21,7 +21,7 @@ $ less nypl_items.csv
 [...]
 ```
 
-This gives you a paginated view of the data. You can use `Control-v` and `Alt-v`to move down or up one page. (On Macs, the Control key is called Command and the Alt key is called Option.) Once you're done, hit `q` to return to the command line. 
+This gives you a paginated view of the data. You can use `Control-v` and `Alt-v`to move down or up one page. (On Macs, use `<Command-v>` and `<Option-v>`.) Once you're done, hit `q` to return to the command line. 
 
 Let's try two more commands for viewing the contents of a file:
 
