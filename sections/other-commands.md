@@ -28,7 +28,7 @@
 
 `rmdir` - Remove an empty directory.
 
-`.` and `..` - `.` refers to the folder you're in, while `..` refers to the folder above.
+`.` and `..` - `.` Refers to the folder you're in, while `..` refers to the folder above.
 
 `.hello.txt` - Any file with a `.` in front of its name is a hidden file. You won't see it in `ls` or in the GUI. To reveal hidden files, use `ls -A`
 
@@ -48,7 +48,7 @@
 
 ### Not particularly useful commands
 
-`cal` - show a calendar
+`cal` - Show a calendar.
 
 `telnet towel.blinkenlights.nl` - Watch Star Wars in the terminal. Because.
 
