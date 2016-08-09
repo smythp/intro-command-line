@@ -18,5 +18,3 @@ The command line allows you to...
 In addition to being a useful tool in itself, the command line gives you access to a second set of programs and utilities and is a compliment to learning programming.
 
 In the next section, we'll get started using the command line.
-
-[<<< Back](README.md) - [Next >>>](getting-to-the-command-line.md)

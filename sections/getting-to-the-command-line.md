@@ -26,6 +26,3 @@ We won't be using Windows's own, non-UNIX version of the command line. Follow th
 6\. You know you're in the right place when you see the `$`.  
 
 In the next section, we'll learn how to navigate the filesystem in the command line.
-
-
-[<<< Back](what-is-the-command-line.md) - [Next >>>](navigation.md)

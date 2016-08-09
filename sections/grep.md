@@ -44,8 +44,6 @@ $ mv nypl_items.csv databases
 
 That's the end of the command line session, but if you want to continue to learn about the command line, take a look at the [other useful commands](other-commands.md) or [additional challenges](challenges.md).
 
-[<<< Previous](data.md)
-
 [Go to other commands >>>](other-commands.md)  
 [Go to further challenges >>>](challenges.md)  
 

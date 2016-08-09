@@ -58,8 +58,6 @@ change directory to home folder
 ...
 ```
 
-[<<< Previous](creating-files-and-folders.md) - [Next >>>](pipes.md)
-
 ### Example
 
 ![Creating a Cheat Sheet](cheat-sheet.gif)

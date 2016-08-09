@@ -65,7 +65,5 @@ The `uniq` command with the `-d` flag prints out the lines that have duplicates.
 
 Use the commands you've learned so far to create a new version of the `nypl_items.txt` file. (Hint: redirects are your friend.)
 
-[<<< Previous](pipes.md) - [Next >>>](grep.md)
-
 ![exploring data](data.gif)
 

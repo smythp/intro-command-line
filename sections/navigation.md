@@ -82,8 +82,6 @@ cd ..
 
 which will move you one directory up in the filesystem. That's a `cd` with two periods after it.
 
-[<<< Previous](getting-to-the-command-line.md) - [Next >>>](creating-files-and-folders.md)
-  
 ### Example:  
 
 ![Navigating the command line](nav.gif)
