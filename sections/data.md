@@ -1,6 +1,6 @@
 ## Exploring text data
 
-So far the only text file we've been working with is our cheat sheet. (Hope you're keeping it up to date!) Let's try working with a large text file, one that would be too large to work with by hand.
+So far the only text file we've been working with is our cheat sheet. Now, this is where the command line can be a very powerful tool: let's try working with a large text file, one that would be too large to work with by hand.
 
 Let's download the data we're going to work with:
 
