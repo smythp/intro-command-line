@@ -5,7 +5,7 @@ The command line is a text-based way of interacting with your computer. You may 
 
 ### Why is the command line useful?
 
-Initially, the command line can seem like a weird and old-fashioned way of interacting with the computer. However, by using the command line, you're stepping away from an environment where things are done for you and moving into an environment where you have more control. Instead of ordering your food in a restaurant, you're stepping into the kitchen. It's more work, but there are also more possibilities. 
+When I use the command line, I feel like a powerful space-age computer commander. But initially, for some of us, the command line can feel a bit unfamiliar. Why step away from a point-and-click workflow? By using the command line, we move into an environment where we have more minute control over each task we'd like the computer to perform. Instead of ordering your food in a restaurant, you're stepping into the kitchen. It's more work, but there are also more possibilities. 
 
 The command line allows you to...
 
