@@ -51,9 +51,7 @@ ls
 
 You should see a number of folders, probably including `Documents`, `Desktop`, and so on. You may also see some files. These are the contents of the current working directory. 
 
-It's important to note that you're likely not seeing any new information; it's just being displayed to you in a different way. Go ahead and use pointing and clicking to navigate to your working directory--you can get there a few ways, but try starting from "My Computer" and clicking down from there. You'll notice that the folder names should match the ones that the command line spits out for you, since it's the same information! We're just using a different mode of navigation around your computer to see it. 
-
-Let's head back to our command line interface. I wonder what's in the Desktop folder? Let's try navigating to it with the following command:
+I wonder what's in the Desktop folder? Let's try navigating to it with the following command:
 
 ```
 $ cd Desktop
@@ -69,6 +67,13 @@ $ pwd
 ```
 
 Now try `ls` again to see what's on your desktop. These three commands—`pwd`, `ls`, and `cd`—are the most commonly used in the terminal. Between them, you can orient yourself and move around. 
+
+
+### Compare with the GUI
+
+It's important to note that this is the same old information you can get by pointing and clicking: it's just being displayed to you in a different way. 
+
+Go ahead and use pointing and clicking to navigate to your working directory--you can get there a few ways, but try starting from "My Computer" and clicking down from there. You'll notice that the folder names should match the ones that the command line spits out for you, since it's the same information! We're just using a different mode of navigation around your computer to see it. 
 
 Before we move on, let's take a minute to navigate through our computer's file system using the command line.
 
