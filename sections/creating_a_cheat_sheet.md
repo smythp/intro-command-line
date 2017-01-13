@@ -35,6 +35,16 @@ This is my cheat sheet
 
 As you can see, the `cat` command prints the contents of a file to the screen. 
 
+### A note on file naming
+
+Your cheat sheet is titled `cheat-sheet.txt` instead of `cheat sheet.txt` for a reason. Can you guess why?
+
+Try to make a file titled `cheat sheet.txt` and report to the class what happens. 
+
+Now imagine you're attempting to open a very important data file using the command line that is titled `cheat sheet.txt`. 
+
+For your digital best practices, we recommend making sure that file names contain no spaces--you can use creative capitalization, dashes, or underscores instead. 
+
 ### Using a text editor
 
 The challenge for this section will be using a text editor to add some of the commands that we've learned to the newly created cheat sheet. Text editors are programs that allow you to edit plain text files, such as .txt, .py (Python scripts), and .csv (spreadsheet files). Remember not to use programs such as Microsoft Word to edit text files, since they add invisible characters that can cause problems. During the Institute, we'll be using Sublime as our text editor.
