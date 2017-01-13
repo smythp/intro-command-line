@@ -1,6 +1,6 @@
 ## Creating files and folders
 
-### Creating a folder
+### Creating a file
 
 So far, we've only performed commands that give us information. Let's use a command that creates something on the computer. 
 
@@ -24,6 +24,12 @@ touch foo.txt
 ```
 
 If the command succeeds, you won't see any output. Now move the terminal window and look at your "real" desktop, the graphical one. See any differences? If the command was successful and you were in the right place, you should see an empty text file called "foo.txt" on the desktop. Pretty cool, right?
+
+#### Handy tip: up arrow
+
+Let's say you liked that "foo.txt" file so much you'd like another! In the terminal window, press the "up arrow" on your keyboard. You'll notice this populates the line with the command that you just wrote. You can hit "Enter" to create another "foo.txt," or you could use your left/right arrows to change the file name to "foot.txt" to create something different. 
+
+As we start to write more complicated and longer commands in our terminal, the "up arrow" is a great shortcut so you don't have to spend lots of time typing. 
 
 ### Creating folders
 
