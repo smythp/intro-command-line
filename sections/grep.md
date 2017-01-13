@@ -22,21 +22,19 @@ Use the `grep` command to explore our .csv file a bit. What areas are best cover
 
 ### Before we finish...
 
-Before you leave today, let's prepare for the next session by organizing your projects folder on your desktop. First, in your projects folder, create a new folder for each of our workshops and one for our cheat sheet:
+Before you leave today, we're going to prepare a little for our upcoming sessions. In your projects folder on the desktop, we're going to create a folder to house our cheat sheets for the week, as well as a new folder for the upcoming databases workshop.
 
 ```
 $ pwd
 /Users/patrick/Desktop/projects
-$ mkdir git
-$ mkdir python
+$ mkdir cheatsheets
 $ mkdir databases
-$ mkdir cheatsheet
 ```
 
-Then move your `cheat-sheet.txt` file into your `git` folder and your `nypl_items.csv` into your `databases` folder with the `mv` command:
+Then move your `cheat-sheet.txt` file into your `cheatsheets` folder and your `nypl_items.csv` into your `databases` folder with the `mv` command:
 
 ```
-$ mv cheat-sheet.txt git
+$ mv cheat-sheet.txt cheatsheets
 $ mv nypl_items.csv databases
 ```
 
