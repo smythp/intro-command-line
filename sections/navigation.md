@@ -1,29 +1,6 @@
 ## Navigation
 
-### Two quick points
-
-#### The command line does stuff...
-
-Like we discussed in our alien example, the command line is a way to get things done on your computer using text. Sometimes that thing is navigating, like the first part of this lesson, and sometimes it will be creating files, folders, looking at data, and more. But the important thing to remember is that when you type a command and hit enter, it *WILL* cause something to happen on your computer. 
-
-When you're in the command line, you'll see a prompt that looks like this:
-
-```
-$
-```
-In front of the `$`, go ahead and type:
-```
-say "welcome to the g c d r i"
-```
-Woah! See? The command line makes things *happen.* This is great, but if you make a mistake, it can make things happen too, which isn't so great. To avoid this, my second point:
-
-#### ...so go slow at first, and check your spelling!
-
-Yes, it's true! One of the biggest things you can do to make sure your code runs correctly and you can use the command line successfully is to make sure you check your spelling! Keep this in mind today, this week, and your whole life. If at first something doesn't work, your spelling will be the first thing you check. 
-
-OK, caveats aside: let's get going!
-
-### Getting to know the command line and yourself!
+### Getting started: know thyself
 
 You may also see your username to the left of the `$`. Let's try our first command. Type the following and press enter:
 
