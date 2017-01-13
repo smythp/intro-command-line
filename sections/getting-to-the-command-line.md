@@ -29,5 +29,38 @@ We won't be using Windows's own, non-UNIX version of the command line. Follow th
 
 In the next section, we'll learn how to navigate the filesystem in the command line.
 
+## Showing and doing: the very basics
+
+### Showing
+
+Before we get into files, folders, directories, oh my, one of the basic ways to use the command line is to have it show you information. 
+
+Go ahead and open your command line window. You'll see a prompt that looks like this:
+
+```
+$
+```
+In front of the `$`, go ahead and type: `cal`, then hit "Enter."
+
+You should see a calendar! See? Information your computer has, that you've requested to see. 
+
+Also fun: try `uptime` to see how long your computer has been on. 
+
+### Doing
+
+An important thing to remember is that when you type a command and hit enter, it *WILL* cause something to happen on your computer. The terminal is not just a little window that contains these commands--it is the portal to speaking directly with your computer. Perhaps even literally!
+
+In your terminal, go ahead and type:
+```
+say "welcome to the g c d r i"
+```
+Woah! See? The command line makes things *happen.* This is great, but if you make a mistake, it can make things happen too, which isn't so great. To avoid this, my second point:
+
+#### ...so go slow at first, and check your spelling!
+
+Yes, it's true! One of the biggest things you can do to make sure your code runs correctly and you can use the command line successfully is to make sure you check your spelling! Keep this in mind today, this week, and your whole life. If at first something doesn't work, your spelling will be the first thing you check. 
+
+OK, caveats aside: let's get going and get into some file navigation!
+
 
 [<<< Back](what-is-the-command-line.md) - [Next >>>](navigation.md)
