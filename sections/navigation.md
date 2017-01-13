@@ -41,6 +41,8 @@ $ pwd
 
 You should get output like `/Users/patrick`. That means you're in the `patrick` directory in the `Users` folder inside the `/` or root directory. On Windows, your output would instead be `C:/Users/patrick`. The folder you're in is called the working directory, and `pwd` stands for "print working directory."
 
+I'm a bit of a literalist, so it bears saying: the command `pwd` won't actually print anything, except on your screen. This command is easier to grasp when we interpret "print" as "display."
+
 OK, we know where we are. But what if we want to know what files and folders are in the `patrick` directory, a.k.a. the working directory? Try entering:
 
 ```
@@ -49,7 +51,9 @@ ls
 
 You should see a number of folders, probably including `Documents`, `Desktop`, and so on. You may also see some files. These are the contents of the current working directory. 
 
-I wonder what's in the Desktop folder? Let's try moving to it with the following command:
+It's important to note that you're likely not seeing any new information; it's just being displayed to you in a different way. Go ahead and use pointing and clicking to navigate to your working directory--you can get there a few ways, but try starting from "My Computer" and clicking down from there. You'll notice that the folder names should match the ones that the command line spits out for you, since it's the same information! We're just using a different mode of navigation around your computer to see it. 
+
+Let's head back to our command line interface. I wonder what's in the Desktop folder? Let's try navigating to it with the following command:
 
 ```
 $ cd Desktop
@@ -64,7 +68,9 @@ $ pwd
 /Users/patrick/Desktop
 ```
 
-Now try `ls` again to see what's on your desktop. These three commands—`pwd`, `ls`, and `cd`—are the most commonly used in the terminal. Between them, you can orient yourself and move around. Before we move on, let's take a minute to move around in the command line.
+Now try `ls` again to see what's on your desktop. These three commands—`pwd`, `ls`, and `cd`—are the most commonly used in the terminal. Between them, you can orient yourself and move around. 
+
+Before we move on, let's take a minute to navigate through our computer's file system using the command line.
 
 # Challenge
 
