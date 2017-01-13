@@ -2,7 +2,7 @@
 
 ### Creating a folder
 
-So far, we've only performed commands that give us information. Let's use a command that actually affects the computer. 
+So far, we've only performed commands that give us information. Let's use a command that creates something on the computer. 
 
 First, make sure you're in the home directory:
 
