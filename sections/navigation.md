@@ -1,5 +1,10 @@
 ## Navigation
 
+#### Prefatory Pro Tip
+go slow at first, and check your spelling!
+
+One of the biggest things you can do to make sure your code runs correctly and you can use the command line successfully is to make sure you check your spelling! Keep this in mind today, this week, and your whole life. If at first something doesn't work, your spelling will be the first thing you check. 
+
 ### Getting started: know thyself
 
 You may also see your username to the left of the `$`. Let's try our first command. Type the following and press enter:
