@@ -7,13 +7,13 @@ Pipes let you take the output of one command and use it as the input for another
 Let's start with a simple example:
 
 ```
-$ echo "Hello from the command line" | rev
-enil dnammoc eht morf olleH
+$ echo "Hello from the command line" | wc -w
+5
 ```
 
-In this example, we take the output of the `echo` command ("Hello from the command line") and pipe it to the `rev` or reverse command. The result is the reverse of the text that we entered.
+In this example, we take the output of the `echo` command ("Hello from the command line") and pipe it to the `wc` or word count command, adding a flag `-w` for number of words. The result is the number of words in the text that we entered.
 
-Let's try a more practical example. What if we wanted to put the commands in our cheat sheet in alphabetical order?
+Let's try another. What if we wanted to put the commands in our cheat sheet in alphabetical order?
 
 Use `pwd` and `cd` to make sure you're in the folder with your cheat sheet. Then try:
 
