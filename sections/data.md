@@ -6,9 +6,15 @@ Let's download the data we're going to work with:
 
 [Download nypl_items.csv](http://smythp.com/hosted/nypl_items.csv)
 
-Once it's downloaded, move it from your Downloads folder to the `projects` folder on your desktop.
+Once the file is downloaded, move it from your Downloads folder to the `projects` folder on your desktop. (Either navigate to your Downloads folder from the command line and type `mv nypl_items.csv ~/Desktop/projects/` to move the file "nypl_items.csv" from the current directory to your projects directory on your Desktop, or drag and drop in the GUI).
 
 Our data set is a list of public domain items from the New York Public Library. It's in .csv format, which is a plain text spreadsheet format. CSV stands for "comma separated values," and each field in the spreadsheet is separated with a comma. It's all still plain text, though, so we can manipulate the data using the command line.
+
+### Interlude for Jojo's favorite command line trick: tab completion.
+
+When you are navigating in the command line, typing folder names can seem to defeat the purpose of all the professions of easier communication with your comupter. Enter `tab` completion, stage right. So far, I've been asking you to type everything carefully, paying close attention to your spelling. The way tab completion works is that it fills in *correctly* the remaining characters of a file you begin typing. It only works from the point that a file name is distinct -- so if you have intro-to-command-line1.txt and intro-to-commandline2.txt, it will only go as far as it can. This trick can help immensely as it will only work if the file already exists.
+
+Now back to business...
 
 ### Viewing data in the command line
 
@@ -33,6 +39,8 @@ $ tail nypl_items.csv
 ```
 
 These commands print out the first and last sections of the file respectively.
+
+If all the text remaining in your terminal window is starting to overwhelm you, try `command` + `k` to clear the scrollback.
 
 ### Cleaning the data
 
