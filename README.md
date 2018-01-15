@@ -30,3 +30,5 @@ Get ready to impress those aliens with your computer know-how!
 [Further challenges](sections/challenges.md)  
 [Glossary](sections/glossary.md)  
 
+[Next >>>](sections/what-is-the-command-line.md)
+
