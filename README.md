@@ -1,6 +1,6 @@
 # Introduction to the Command Line
 
-Let's say aliens came to visit our planet, and kindly requested that you show them how to use a computer. How would you show them how to *do* something on your computer?
+By this point in our academic careers, most of us have figured out some ways we like to interact with computers. Whether that involves avoiding them as much as possible or constantly testing new software, we likely have some ideas about how we feel comfortable getting things done. How would you show a person who had never seen a computer, say [Kimmy Schmidt](https://youtu.be/LIdFa1qLgNQ) or [Brendan Fraser in Blast from the Past](https://youtu.be/Xq29uTtKW4M), how to *do* something on your computer? 
 
 Most of us would explain what a screen and a mouse are, and then show the alien how to point and click on icons. This approach relies on a graphical user interface, or GUI (pronounced "gooey!"). 
 
