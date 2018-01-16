@@ -19,7 +19,7 @@ Now let's check the contents of the directory:
 
 ```
 $ pwd
-/Users/patrick/projects
+/Users/jojo/projects
 $ ls
 cheat-sheet.txt
 ```
