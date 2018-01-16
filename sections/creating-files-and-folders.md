@@ -8,7 +8,7 @@ First, make sure you're in the home directory:
 
 ```
 $ pwd
-/Users/patrick
+/Users/jojo
 ```
 
 Let's move to the Desktop folder with `cd`:
