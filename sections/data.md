@@ -10,9 +10,9 @@ Once the file is downloaded, move it from your Downloads folder to the `projects
 
 Our data set is a list of public domain items from the New York Public Library. It's in .csv format, which is a plain text spreadsheet format. CSV stands for "comma separated values," and each field in the spreadsheet is separated with a comma. It's all still plain text, though, so we can manipulate the data using the command line.
 
-### Interlude for Jojo's favorite command line trick: tab completion.
+### Interlude for Jojo's favorite command line feature: tab completion.
 
-When you are navigating in the command line, typing folder names can seem to defeat the purpose of all the professions of easier communication with your comupter. Enter `tab` completion, stage right. So far, I've been asking you to type everything carefully, paying close attention to your spelling. The way tab completion works is that it fills in *correctly* the remaining characters of a file you begin typing. It only works from the point that a file name is distinct -- so if you have intro-to-command-line1.txt and intro-to-commandline2.txt, it will only go as far as it can. This trick can help immensely as it will only work if the file already exists.
+When you are navigating in the command line, typing folder and file names can seem to go against this promise of easier communication with your comupter. Enter `tab` completion, stage right. So far, I've been asking you to type everything carefully, paying close attention to your spelling. The way tab completion works is that it fills in *correctly* the remaining characters of a file you begin typing. It only works from the point that a file name is distinct -- so if you have intro-to-command-line1.txt and intro-to-commandline2.txt, it will only go as far as it can. This trick can help immensely as it will only work if the file already exists.
 
 Now back to business...
 
@@ -40,7 +40,9 @@ $ tail nypl_items.csv
 
 These commands print out the first and last sections of the file respectively.
 
-If all the text remaining in your terminal window is starting to overwhelm you, try `command` + `k` to clear the scrollback.
+*side note*
+
+If all the text remaining in your terminal window is starting to overwhelm you, you have some options. Try `clear` or type `command` + `k` to clear the scrollback. In Mac OSX terminal, `command` + `l` will clear the output from your most recent command.
 
 ### Cleaning the data
 
