@@ -23,13 +23,13 @@ All these commands are great and all, but what if I want to make my own command?
 
 ```
 $ peptalk
-Patrick is awesome!
+Good work
 ```
 
 To do this, use the `alias` command:
 
 ```
-$ alias peptalk="echo 'Patrick is awesome!'"
+$ alias peptalk="echo Good work"
 ```
 
 To pass this challenge, make your own alias that does something different.
