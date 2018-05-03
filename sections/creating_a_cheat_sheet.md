@@ -47,11 +47,25 @@ For your digital best practices, we recommend making sure that file names contai
 
 ### Using a text editor
 
-The challenge for this section will be using a text editor to add some of the commands that we've learned to the newly created cheat sheet. Text editors are programs that allow you to edit plain text files, such as .txt, .py (Python scripts), and .csv (spreadsheet files). Remember not to use programs such as Microsoft Word to edit text files, since they add invisible characters that can cause problems. During the Institute, we'll be using Sublime as our text editor.
+The challenge for this section will be using a text editor to add some of the commands that we've learned to the newly created cheat sheet. Text editors are programs that allow you to edit plain text files, such as .txt, .py (Python scripts), and .csv (spreadsheet files). Remember not to use programs such as Microsoft Word to edit text files, since they add invisible characters that can cause problems. 
 
 # Challenge
 
-Open Sublime Text and select File > Open file from the menu bar. Add the commands we've learned so far to the file. Include descriptions about what each command does. When you're done, save the file by selecting File > Save from the menu bar.
+In your terminal, type:
+
+	nano cheat-sheet.txt
+
+This command will open the nano editor in the command line. You'll see your terminal change to look something like this:
+
+![Image of what nano looks like when you open it](nano.png)
+
+Type to add the commands we've learned so far to the file. Include descriptions about what each command does. 
+
+When you're done, save, the file by performing these three actions:
+
+1. Hold control and press x.
+2. You'll be asked if you want to save. Press y for "yes."
+2. You'll see the path to the file in the bar. Press Enter to confirm and you'll be dropped back into the command line.
 
 Once you're done, check the contents of the file on the command line with the `cat` command:
 
