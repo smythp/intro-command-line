@@ -31,4 +31,4 @@ We won't be using Windows's own non-UNIX version of the command line. Follow the
 
 In the next section, we'll learn how to navigate the filesystem in the command line.
 
-[<<< Back](why-is-the-command-line-useful.md) - [Next >>>](navigation.md)
+[<<< Previous](why-is-the-command-line-useful.md) - [Next >>>](navigation.md)

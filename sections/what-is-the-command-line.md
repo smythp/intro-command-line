@@ -9,4 +9,4 @@ For those of us comfortable reading and writing, the idea of "text-based" in the
 
 Let's take a quick moment to discuss text and Text Editors.
 
-[<<< Back](README.md)[Next>>>](text-editors.md)
+[<<< Previous](README.md) - [Next >>>](text-editors.md)

@@ -16,4 +16,4 @@ What if all these cool possibilities seem a bit abstract to you right now? That'
 
 In the next section, we'll make this a little more clear by getting started with the command line.
 
-[<<< Back](text-editors.md) - [Next >>>](getting-to-the-command-line.md)
+[<<< Previous](text-editors.md) - [Next >>>](getting-to-the-command-line.md)
