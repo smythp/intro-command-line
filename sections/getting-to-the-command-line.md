@@ -20,7 +20,7 @@ Bonus points: if you really want to get the groove of just typing instead of poi
 
 ### Windows
 
-We won't be using Windows's own, non-UNIX version of the command line. Follow these steps to install Git Bash, which we will use in this session:
+We won't be using Windows's own non-UNIX version of the command line. Follow these steps to install Git Bash, which we will use in this session:
 
 1\. Download [Git for Windows](https://git-for-windows.github.io/) and install it. You'll be asked a bunch of questions but the defaults are fine.
 2\. Click the Windows button on the bottom left of your desktop (or hit the Windows button on your keyboard).  

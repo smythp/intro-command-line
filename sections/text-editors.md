@@ -24,6 +24,12 @@ While it doesn't really matter which text editor you choose, you should try to b
 
 Choosing a text editor has as much to do with personality as it does with functionality. For our workshops, we will be using [Visual Studio Code](https://code.visualstudio.com/). Not only is Visual Studio Code free and open source, but it is also consistent across OSX, Windows, and Linux systems.
 
+Take a moment to download now. We won't be using the editor a lot in this tutorial, so don't worry about opening the program now.
+
+Return to [Command Line tutorial](what-is-the-command-line.md)
+
+### More Information about Text Editors
+
 ### Editors vs. IDEs
 
 When it comes to editing text and writing code, you can use either a text editor or an IDE (Integrated Development Environment). Text editors tend to be more lightweight solutions, while IDEs try to provide a lot of features to help you write code and tend to target specific languages. There are a lot of exceptions to that description, but the distinction isn't that important. Just know that editors will sometimes describe themselves as IDEs, and that there's a slight difference in philosophy between them.
