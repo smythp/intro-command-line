@@ -10,9 +10,11 @@ If you're using OSX:
 3\. Select the first item that appears in the list.  
 4\. The terminal will look like this:  
 
-![Terminal in OSX](osx_term.jpg)
+![Terminal in OSX](osx_term.png)
 
 When you see the `$`, you're in the right place.
+
+*You can change the color of your Terminal or BashShell background and text by selected <Shell> from the top menu bar, then selecting from the menu under <New Window>.*
 
 Bonus points: if you really want to get the groove of just typing instead of pointing and clicking, you can press "Command (⌘)" and the space bar at the same time to pull up Spotlight search, start typing "Terminal," and then hit "Enter" to open a terminal window. This will pull up a terminal window without touching your mousepad. For super bonus points, try to navigate like this for the next fifteen minutes, or even the rest of this session--it is tricky and sometimes a bit tiring when you start, but you can really pick up speed when you practice!
 

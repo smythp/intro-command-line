@@ -51,21 +51,13 @@ The challenge for this section will be using a text editor to add some of the co
 
 # Challenge
 
-In your terminal, type:
+From you programs menu, via Finder or Applications or Launchpad in Mac OSX, via Windows button in Windows, open your Visual Studio Code text editor:
 
-	nano cheat-sheet.txt
+open cheat-sheet.txt
 
-This command will open the nano editor in the command line. You'll see your terminal change to look something like this:
+Type to add the commands we've learned so far to the file. Include descriptions about what each command does. Remember -- this cheat sheet is for you. Write descriptions that make sense to you or take notes about questions.
 
-![Image of what nano looks like when you open it](nano.png)
-
-Type to add the commands we've learned so far to the file. Include descriptions about what each command does. 
-
-When you're done, save, the file by performing these three actions:
-
-1. Hold control and press x.
-2. You'll be asked if you want to save. Press y for "yes."
-2. You'll see the path to the file in the bar. Press Enter to confirm and you'll be dropped back into the command line.
+Save the file.
 
 Once you're done, check the contents of the file on the command line with the `cat` command:
 
