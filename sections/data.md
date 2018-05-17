@@ -4,7 +4,7 @@ So far the only text file we've been working with is our cheat sheet. Now, this 
 
 Let's download the data we're going to work with:
 
-[Download nypl_items.csv](http://smythp.com/hosted/nypl_items.csv)
+[Download nypl_items.csv](nypl_items.csv)
 
 Once the file is downloaded, move it from your Downloads folder to the `projects` folder on your desktop. (Either navigate to your Downloads folder from the command line and type `mv nypl_items.csv ~/Desktop/projects/` to move the file "nypl_items.csv" from the current directory to your projects directory on your Desktop, or drag and drop in the GUI).
 
