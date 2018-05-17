@@ -24,10 +24,12 @@ While it doesn't really matter which text editor you choose, you should try to b
 
 Choosing a text editor has as much to do with personality as it does with functionality. For our workshops, we will be using [Visual Studio Code](https://code.visualstudio.com/). Not only is Visual Studio Code free and open source, but it is also consistent across OSX, Windows, and Linux systems.
 
-Take a moment to download now. We won't be using the editor a lot in this tutorial, so don't worry about opening the program now.
+Take a moment to download now. We won't be using the editor a lot in this tutorial, so don't worry about getting to know the editor now. In later workshops we will discuss syntax highlighting and version control, which Visual Studio Code supports. For now we will get back to working in the command line itself.
 
-Return to [Command Line tutorial](what-is-the-command-line.md)
+Return to [Command Line tutorial >>>](what-is-the-command-line.md)
 
+
+for later...
 ### More Information about Text Editors
 
 ### Editors vs. IDEs
@@ -63,7 +65,7 @@ When you're done typing to add text to the file, you can save the file by perfor
 
 #### Fully Customized
 
-- [EMACS](https://www.gnu.org/software/emacs/) - If you are the sort of person who wants full control of your computer's functions, who seeks the power of ORG mode, and who wishes to learn keyboard shortcuts that work across functions, GNU Emacs is the software for you. EMACS requires a fair amount of set-up, but the payoff is that you wind up with the set-up that suits your work habits.
+- [Emacs](https://www.gnu.org/software/emacs/) - If you are the sort of person who wants full control of your computer's functions, who seeks the power of ORG mode, and who wishes to learn keyboard shortcuts that work across functions, GNU Emacs is the software for you. Emacs requires a fair amount of set-up, but the payoff is that you wind up with the set-up that suits your work habits.
 
 #### Integrated Development Environment [IDE]
 
@@ -71,5 +73,3 @@ As mentioned agove, IDEs offer more functions for testing code and running progr
 
 - **[IDLE]()https://docs.python.org/2/library/idle.html** - The default Python IDE that comes bundled with every download of Python. Simple to use and good for beginners to Python. Not very polished and lacks advanced features.
 - **Spyder** and **PyCharm** - These are Python-specific IDEs. They have more bells and whistles than a standard text editor like Textwrangler, but they're meant specifically for working with Python. Spyder is free and comes bundled with Anaconda. PyCharm is not free, but some people prefer it for working with Python on the web. 
-
-[<<< Previous](creating_a_cheat_sheet.md) - [Next >>>](grep.md)
