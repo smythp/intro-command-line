@@ -13,6 +13,8 @@ In this session, we'll learn those common commands by exploring and manipulating
 Get ready to impress with your computer know-how!
 
 [What's the command line?](sections/what-is-the-command-line.md)  
+[Working with text](sections/text-editors.md)
+[Why is the comman line useful?](sections/why-is-the-command-line-useful.md)
 [Getting to the command line](sections/getting-to-the-command-line.md)  
 [Navigation](sections/navigation.md)  
 [Creating files and folders](sections/creating-files-and-folders.md)  
@@ -26,7 +28,7 @@ Get ready to impress with your computer know-how!
 ### Resources
 
 [Commands cheat sheet](sections/commands.md)  
-[Text editors](sections/text-editors.md)
+[More on text editors](sections/text-editors.md)
 [Other useful commands](sections/other-commands.md)  
 [Further challenges](sections/challenges.md)  
 [Glossary](sections/glossary.md)  
