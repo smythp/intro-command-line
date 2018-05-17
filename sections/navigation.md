@@ -32,7 +32,7 @@ Users
   -- Documents
 ```
 
-The root or highest-level folder on OSX is just called `/`. We won't need to go in there, though, since that's mostly just files for the operating system. On Windows, the root directory is usually called `C:` ([more on why C is default on Windows](http://www.todayifoundout.com/index.php/2015/04/c-drive-default-windows-based-computers-2/).
+The root or highest-level folder on OSX is just called `/`. We won't need to go in there, though, since that's mostly just files for the operating system. On Windows, the root directory is usually called `C:` ([more on why C is default on Windows](http://www.todayifoundout.com/index.php/2015/04/c-drive-default-windows-based-computers-2/)).
 
 OK, let's try a command that tells us where we are in the filesystem:
 
