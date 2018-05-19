@@ -38,7 +38,7 @@ To pass this challenge, make your own alias that does something different.
 
 So you made an alias, but you realized it goes away when you close and reopen the terminal. (So unfair.) Make your alias permanent.
 
-To do this, you will need to edit the configuration file that your terminal runs when it starts up. On Git Bash, that's going to be called `~/.bashrc`. (That's a `.bashrc` file in your home folder.) ON OSX, the file is called `~/.bash_profile`. Just add the command you used to create the alias to the file with your text editor. Close and reopen the terminal to make sure your alias still works.
+To do this, you will need to edit the configuration file that your terminal runs when it starts up. On Git Bash, that's going to be called `~/.bashrc`. (That's a `.bashrc` file in your home folder.) On OSX, the file is called `~/.bash_profile`. Just add the command you used to create the alias to the file with your text editor. Close and reopen the terminal to make sure your alias still works.
 
 ### Challenge #4: Create your own shell script 
 
