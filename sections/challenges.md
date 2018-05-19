@@ -91,6 +91,6 @@ This moves your script from its current folder to the `/bin` folder and renames 
 
 ````
 $ goto-projects
-```
+````
 
 from anywhere and see if that runs your script. If it does, congratulations! You're a force to be reckoned with on the command line.
