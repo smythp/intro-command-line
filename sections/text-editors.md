@@ -1,18 +1,17 @@
 
 ## Text Editors 
 
-### What is Text 
+### What Is Text ?
 
 Before we explain which program we'll be using for editing text, we want to give a general sense of this "text" we keep mentioning. For those of us in the humanities, whether we follow literary theorists who read any object as a "text" or we dive into philology, paleography, codicology or any of the fields [David Greetham](https://en.wikipedia.org/wiki/David_Greetham_(textual_scholar)) lays out in *Textual Scholarship*, "text" has its specific meanings. As humanities scholars working with computers, we need to be aware of the ways plain text and formatted text differ. Words on a screen may have hidden formatting. Many of us grew up using Microsoft Word and don't realize how much is going on behind the words shown on the screen. For the purposes of communicating with the computer and for easier movement between different programs, we need to use text without hidden formatting.
 
 ![Word Doc](worddoc.png)
 
-This Word .docx file will look something like this
+If opened in a text editor, this Word .docx file will look something like this
 
 ![Cat Word Doc](CatWordDoc.png)
 
-if you ask the commandline to read that file. Word documents which look like "just words!" are actually comprised of extensible markup language (XML) instructions which basically only Microsoft Word can read. Plaintext files can be opened in a number of different editors and can be read within the command line.
-
+if you ask the commandline to read that file. Word documents which look like "just words!" are actually comprised of an archive of extensible markup language (XML) instructions that only Microsoft Word can read. Plaintext files can be opened in a number of different editors and can be read within the command line.
 
 ## Text Editors
 

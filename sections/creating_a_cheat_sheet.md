@@ -51,9 +51,9 @@ The challenge for this section will be using a text editor to add some of the co
 
 ## Challenge
 
-From you programs menu, via Finder or Applications or Launchpad in Mac OSX, via Windows button in Windows, open your Visual Studio Code text editor:
+From your programs menu, via Finder or Applications or Launchpad in Mac OSX, via Windows button in Windows, open your Visual Studio Code text editor:
 
-open cheat-sheet.txt
+	code cheat-sheet.txt
 
 Type to add the commands we've learned so far to the file. Include descriptions about what each command does. Remember -- this cheat sheet is for you. Write descriptions that make sense to you or take notes about questions.
 

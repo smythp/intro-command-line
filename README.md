@@ -10,8 +10,6 @@ While this new technique can seem intimidating if you haven't used text-based in
 
 In this session, we'll learn those common commands by exploring and manipulating a simple data set. By the end of the session, you'll be able to navigate your computer, create and manipulate files, and transform text-based data using only the command line. 
 
-Get ready to impress with your computer know-how!
-
 [What's the command line?](sections/what-is-the-command-line.md)   
 [Working with text](sections/text-editors.md)  
 [Why is the command line useful?](sections/why-is-the-command-line-useful.md)  
