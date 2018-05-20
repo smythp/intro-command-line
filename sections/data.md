@@ -12,9 +12,7 @@ Our data set is a list of public domain items from the New York Public Library. 
 
 ### Interlude for Jojo's favorite command line feature: tab completion.
 
-When you are navigating in the command line, typing folder and file names can seem to go against this promise of easier communication with your comupter. Enter `tab` completion, stage right. So far, I've been asking you to type everything carefully, paying close attention to your spelling. The way tab completion works is that it fills in *correctly* the remaining characters of a file you begin typing. It only works from the point that a file name is distinct -- so if you have intro-to-command-line1.txt and intro-to-commandline2.txt, it will only go as far as it can. This trick can help immensely as it will only work if the file already exists.
-
-Now back to business...
+When you are navigating in the command line, typing folder and file names can seem to go against the promise of easier communication with your computer. Enter `tab` completion, stage right. So far, I've been asking you to type everything carefully, paying close attention to your spelling. The way tab completion works is that it fills in—*correctly*—the remaining characters of a file you begin typing. It only works from the point that a file name is distinct -- so if you have intro-to-command-line1.txt and intro-to-commandline2.txt, it will only go as far as it can. This trick can help immensely as it will only work if the file already exists.
 
 ### Viewing data in the command line
 
@@ -40,7 +38,7 @@ $ tail nypl_items.csv
 
 These commands print out the first and last sections of the file respectively.
 
-*side note*
+### Note: Clearing Text
 
 If all the text remaining in your terminal window is starting to overwhelm you, you have some options. Try `clear` or type `command` + `k` to clear the scrollback. In Mac OSX terminal, `command` + `l` will clear the output from your most recent command.
 
