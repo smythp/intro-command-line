@@ -1,5 +1,5 @@
 
-[<<< Previous](creating_a_cheat_sheet.md)|[Next >>>](why-is-the-command-line-useful.md)
+[<<< Previous](what-is-the-command-line.md) | [Next >>>](why-is-the-command-line-useful.md)
 
 ## Text Editors 
 
@@ -27,7 +27,7 @@ Choosing a text editor has as much to do with personality as it does with functi
 
 Take a moment to download now. We won't be using the editor a lot in this tutorial, so don't worry about getting to know the editor now. In later workshops we will discuss syntax highlighting and version control, which Visual Studio Code supports. For now we will get back to working in the command line itself.
 
-[<<< Previous](creating_a_cheat_sheet.md)|[Next >>>](why-is-the-command-line-useful.md)
+[<<< Previous](what-is-the-command-line.md) | [Next >>>](why-is-the-command-line-useful.md)
 
 
 [More information about text editors](text-editors-ides.md) can be found in the resources at the end of the lesson. 

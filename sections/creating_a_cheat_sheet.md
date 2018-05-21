@@ -1,4 +1,4 @@
-[<<< Previous](creating-files-and-folders.md)|[Next >>>](pipes.md)
+[<<< Previous](creating-files-and-folders.md) | [Next >>>](pipes.md)
 
 ## Creating a cheat sheet
 
@@ -76,7 +76,7 @@ change directory to home folder
 ...
 ```
 
-[<<< Previous](creating-files-and-folders.md)|[Next >>>](pipes.md)
+[<<< Previous](creating-files-and-folders.md) | [Next >>>](pipes.md)
 
 ### Example
 

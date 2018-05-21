@@ -31,6 +31,8 @@ In this session, we'll learn those common commands by exploring and manipulating
 [Further challenges](sections/challenges.md)  
 [Glossary](sections/glossary.md)  
 
+[Get Started >>>]((what-is-the-command-line.md))
+
 -----
 
 Session Leader: Jojo Karlin  

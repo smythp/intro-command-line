@@ -1,4 +1,4 @@
-[<<< Previous](creating_a_cheat_sheet.md)|[Next >>>](data.md)
+[<<< Previous](creating_a_cheat_sheet.md) | [Next >>>](data.md)
 
 ## Pipes
 
@@ -29,7 +29,7 @@ You should see the contents of the cheat sheet file with each line rearranged in
 cat cheat-sheet.txt | sort > new-cheat-sheet.txt
 ```
 
-[<<< Previous](creating_a_cheat_sheet.md)|[Next >>>](data.md)
+[<<< Previous](creating_a_cheat_sheet.md) | [Next >>>](data.md)
 
 ### Example
 
