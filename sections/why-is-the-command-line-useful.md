@@ -1,3 +1,5 @@
+[<<< Previous](text-editors.md)|[Next >>>](getting-to-the-command-line.md)
+
 ### Why is the command line useful?
 
 Initially, for some of us, the command line can feel a bit unfamiliar. Why step away from a point-and-click workflow? By using the command line, we move into an environment where we have more minute control over each task we'd like the computer to perform. Instead of ordering your food in a restaurant, you're stepping into the kitchen. It's more work, but there are also more possibilities. 
@@ -16,4 +18,4 @@ What if all these cool possibilities seem a bit abstract to you right now? That'
 
 In the next section, we'll make this a little more clear by getting started with the command line.
 
-[<<< Previous](text-editors.md) - [Next >>>](getting-to-the-command-line.md)
+[<<< Previous](text-editors.md)|[Next >>>](getting-to-the-command-line.md)

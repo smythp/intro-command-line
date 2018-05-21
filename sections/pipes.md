@@ -1,3 +1,5 @@
+[<<< Previous](creating_a_cheat_sheet.md)|[Next >>>](data.md)
+
 ## Pipes
 
 So far, you've learned a number of commands and one special symbol, the `>` or redirect. Now we're going to learn another, the `|` or "pipe."
@@ -27,7 +29,7 @@ You should see the contents of the cheat sheet file with each line rearranged in
 cat cheat-sheet.txt | sort > new-cheat-sheet.txt
 ```
 
-[<<< Previous](creating_a_cheat_sheet.md) - [Next >>>](data.md)
+[<<< Previous](creating_a_cheat_sheet.md)|[Next >>>](data.md)
 
 ### Example
 

@@ -1,3 +1,5 @@
+[<<< Previous](pipes.md)|[Next >>>](grep.md)
+
 ## Exploring text data
 
 So far the only text file we've been working with is our cheat sheet. Now, this is where the command line can be a very powerful tool: let's try working with a large text file, one that would be too large to work with by hand.
@@ -73,7 +75,7 @@ The `uniq` command with the `-d` flag prints out the lines that have duplicates.
 
 Use the commands you've learned so far to create a new version of the `nypl_items.txt` file. (Hint: redirects are your friend.)
 
-[<<< Previous](pipes.md) - [Next >>>](grep.md)
+[<<< Previous](pipes.md)|[Next >>>](grep.md)
 
 ![exploring data](data.gif)
 

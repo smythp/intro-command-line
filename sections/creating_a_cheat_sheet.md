@@ -1,3 +1,5 @@
+[<<< Previous](creating-files-and-folders.md)|[Next >>>](pipes.md)
+
 ## Creating a cheat sheet
 
 In this section, we'll create a text file that we can use as a cheat sheet. You can use it to keep track of all the awesome commands you're learning. 
@@ -74,7 +76,7 @@ change directory to home folder
 ...
 ```
 
-[<<< Previous](creating-files-and-folders.md) - [Next >>>](pipes.md)
+[<<< Previous](creating-files-and-folders.md)|[Next >>>](pipes.md)
 
 ### Example
 
