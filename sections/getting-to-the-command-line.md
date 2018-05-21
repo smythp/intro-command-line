@@ -1,4 +1,3 @@
-
 [<<< Previous](why-is-the-command-line-useful.md) | [Next >>>](navigation.md)
 
 ## Getting to the command line
