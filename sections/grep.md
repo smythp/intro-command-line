@@ -22,6 +22,8 @@ $ $ cat nypl_items.csv | grep -i "paris" | wc -l
 
 Use the `grep` command to explore our .csv file a bit. What areas are best covered by the data set?
 
+If you want to get a little more milage out of the grep command, refer to [this tutorial on grep and regular expressions](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux). Regular expressions provide ways to search for text in more advanced ways, including specific wildcards, matching ranges of characters such as letters and numbers, and detecting features such as the beginning and end of lines.
+
 ### Before we finish...
 
 Before you leave today, we're going to prepare a little for our upcoming sessions. In your projects folder on the desktop, we're going to create a folder to house our cheat sheets for the week, as well as a new folder for the upcoming databases workshop.
