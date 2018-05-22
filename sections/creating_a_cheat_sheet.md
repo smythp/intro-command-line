@@ -4,12 +4,16 @@
 
 In this section, we'll create a text file that we can use as a cheat sheet. You can use it to keep track of all the awesome commands you're learning. 
 
+### `echo` command
+
 Instead of creating an empty file like we did with `touch`, let's try creating a file with some text in it. But first, let's learn a new command: `echo`
 
 ```
 $ echo "Hello from the command line"
 Hello from the command line
 ```
+
+### Redirect command `>`
 
 By default, the echo command just prints out the text we give it. Let's use it to create a file with some text in it:
 
@@ -27,6 +31,8 @@ cheat-sheet.txt
 ```
 
 OK, so the file has been created. But what was the `>` in the command we used? On the command line, a `>` is known as a "redirect." It takes the output of a command and puts it in a file. Be careful, since it's possible to overwrite files with the `>` command.
+
+### `cat` command
 
 Let's check if there's any text in cheat-sheet.txt.
 
