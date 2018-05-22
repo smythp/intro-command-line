@@ -1,4 +1,4 @@
-[<<< Previous](grep.md)
+[<<< Previous](grep.md)  
 [<<< Return to introduction](README.md)
 
 ## Commands
