@@ -6,6 +6,8 @@ So we've cleaned our data set, but how do we find entries that use a particular 
 
 Let's say I want to find all the entries in our data set that use the term "Paris."
 
+Here we can use the `grep` command. `grep` stands for "global regular expression print" and it processes text line by line and prints any lines which match a specified pattern. Regular expressions are infamously human-illegible commands that use character by character matching to return a pattern. `grep` gives us access to the power of regular expressions as we search for text.
+
 ```
 $ cat nypl_items.csv | grep -i "paris"
 [...]
