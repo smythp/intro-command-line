@@ -8,6 +8,8 @@ Today we're going to explore another way to make your computer do things: throug
 
 While this new technique can seem intimidating if you haven't used text-based interfaces before, luckily, you can use 90% of the functionality of the command line by becoming comfortable with a very small set of the most common commands.
 
+## Learning objectives  
+
 In this session, we will:
 - learn common commands to create files (`touch` and `echo`) 
 - learn commands to create directories (`mkdir`)
