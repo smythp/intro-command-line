@@ -8,7 +8,14 @@ Today we're going to explore another way to make your computer do things: throug
 
 While this new technique can seem intimidating if you haven't used text-based interfaces before, luckily, you can use 90% of the functionality of the command line by becoming comfortable with a very small set of the most common commands.
 
-In this session, we'll learn those common commands by exploring and manipulating a simple data set. By the end of the session, you'll be able to navigate your computer, create and manipulate files, and transform text-based data using only the command line. 
+In this session, we will:
+- learn common commands to create files (`touch` and `echo`) 
+- learn commands to create directories (`mkdir`)
+- navigate our file structure using change directory (`cd`), print working directory (`pwd`), and list (`ls`)
+- move content from one place to another using redirects (`<`) and pipes (`|`)
+- explore a comma separated values (.csv) dataset using word and line counts, `head` and `tail`, and the concatenate command `cat`
+- search text files using the `grep` command
+- create and sort cheat sheets for the commands we learn
 
 [Get Started >>>](sections/what-is-the-command-line.md)
 
