@@ -21,24 +21,6 @@ In this session, we learned:
 
 When we started, we reviewed what the difference was between a .txt and a .rtf file was. We learned that text editors that we want to use are a kind of software that doesn't allow for formatting of font, like color and size. Text editors are a different piece of software than Bash, which is a text-based shell that allows you to interact directly with your operating system giving direct input and receiving output. We learned commands that help you navigate your computer's file system.... (etc. etc.)
 
-### Before we finish...
-
-Before you leave today, we're going to prepare a little for our upcoming sessions. In your projects folder on the desktop, we're going to create a folder to house our cheat sheets for the week, as well as a new folder for the upcoming databases workshop.
-
-```
-$ pwd
-/Users/jojo/Desktop/projects
-$ mkdir cheatsheets
-$ mkdir databases
-```
-
-Then move your `cheat-sheet.txt` file into your `cheatsheets` folder and your `nypl_items.csv` into your `databases` folder with the `mv` command:
-
-```
-$ mv cheat-sheet.txt cheatsheets
-$ mv nypl_items.csv databases
-```
-
 ### Moving forward
 
 Connect skill to what's coming up

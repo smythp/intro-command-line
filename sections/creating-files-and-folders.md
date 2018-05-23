@@ -13,7 +13,7 @@ $ pwd
 /Users/jojo
 ```
 
-Let's move to the Desktop folder with `cd`:
+Let's move to the Desktop folder, or "change directory" with `cd`:
 
 ```
 cd Desktop
@@ -44,13 +44,13 @@ $ pwd
 /Users/jojo/Desktop
 ```
 
-Once you've double-checked you're in Desktop, we'll use this command to make a folder called "projects":
+Once you've double-checked you're in Desktop, we'll use the `mkdir` or "make directory" command to make a folder called "projects":
 
 ```
 mkdir projects
 ```
 
-Now do `ls` to see if a projects folder has appeared. Once you confirm that the projects folder was created successfully, `cd` into it. 
+Now run `ls` to see if a projects folder has appeared. Once you confirm that the projects folder was created successfully, `cd` into it. 
 
 ```
 $ cd projects

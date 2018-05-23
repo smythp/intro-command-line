@@ -41,7 +41,7 @@ cat cheat-sheet.txt
 This is my cheat sheet
 ```
 
-As you can see, the `cat` command prints the contents of a file to the screen. 
+As you can see, the `cat` command prints the contents of a file to the screen. `cat` stands for "concatenate," because it can concatenate strings of characters or files together.
 
 ### A note on file naming
 

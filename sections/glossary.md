@@ -15,15 +15,15 @@
 
 ### Other terms
 
-*argument* -
+*argument* - in the command line, an argument is an item or parameter that you give a program when you start it. For instance, if you 
 
 *command* - 
 
-*flag* -
+*flag* - otherwise known as an *option* or *switch*, a flag provides additional information for how you wish a program to run. For instance, when executing the command `grep`, you may want to add the flag `-i` to ignore capitalization. If you wish to know what flags belond to particular commands, you can check the m
 
 *GUI* - "Graphical User Interface." Pronounced "gooey," like delicious gooey chocolate. Basically, anything on a computer that isn't in the command line. All familiar elements of day-to-day computer tasks such as images, windows, prompts, buttons, and progress bars are part of the GUI. The way most people interact with computers. Some tasks can only be done in a GUI, while others can only be done in the command line.
 
-*options* -
+*options* - see *flag*
 
 *prompt* -
 
@@ -31,8 +31,14 @@
 
 *root* - A word for the administrative user on a system. You often need administrative privileges to install programs or access certain system folders using the command line. You can tell you're root when your `$` prompt turns into a `#` prompt. To become root, type `su` and enter the password you use to log in. (No characters or asterisks will appear, just type your password and press enter.) You can also run a single command as root by typing `sudo` before the command.
 
-*syntax* -
+*syntax* - with computers, the syntax refers to the rules by which a command must be run so that the software can understand it. Some commands *need* an argument to follow the command. For example `mv` will only work if you provide the source file that you intend to move and the directory destination. 
 
 *UNIX* - A family of operating systems that have a multi-user model and a particular design philosophy. Both OSX and Linux are UNIXes. Windows is not.
 
 *REPL* - "Read Eval Print Loop" The process of typing something in to the command line and getting something back out. Like most things to do with the command line, not as complicated (or scary) as it sounds.
+
+Find so much more on 
+
+[Bash manual](https://www.gnu.org/software/bash/manual/bashref.html) - the no nonsense text descriptions of bash commands
+[explain shell](https://explainshell.com/) - a site that explains commands you paste into the form.
+[Easy shell guide](https://lucasviola.github.io/easyshell/) - a friendly, styled list of common commands

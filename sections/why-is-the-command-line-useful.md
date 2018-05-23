@@ -14,7 +14,7 @@ The command line allows you to...
 
 In addition to being a useful tool in itself, the command line gives you access to a second set of programs and utilities and is a complement to learning programming.
 
-What if all these cool possibilities seem a bit abstract to you right now? That's alright! On a very basic level, most uses of the command line are about **showing information** that the computer has, or **modifying or making** things (files, programs, etc) on the computer. 
+What if all these cool possibilities seem a bit abstract to you right now? That's alright! On a very basic level, most uses of the command line are about **showing information** that the computer has, or **modifying or making** things (files, programs, etc.) on the computer. 
 
 In the next section, we'll make this a little more clear by getting started with the command line.
 

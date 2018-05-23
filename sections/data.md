@@ -20,14 +20,14 @@ When you are navigating in the command line, typing folder and file names can se
 
 Try using `cat` to look at the data. You'll find it all goes by too fast to get any sense of it. (You can do Control-C to cancel the output if it's taking too long.) 
 
-Instead, let's use another tool to get the data one page at a time:
+Instead, let's use another tool, the `less` command, to get the data one page at a time:
 
 ```
 $ less nypl_items.csv
 [...]
 ```
 
-This gives you a paginated view of the data. You can use `Control-v` and `Alt-v`to move down or up one page. (On Macs, use `<Command-v>` and `<Option-v>`.) Once you're done, hit `q` to return to the command line. 
+`Less` gives you a paginated view of the data; it will show you contents of a file or the output from a command or string of commands, page by page. You can use `Control-v` and `Alt-v`to move down or up one page. (On Macs, use `<Command-v>` and `<Option-v>`.) Once you're done, hit `q` to return to the command line. 
 
 Let's try two more commands for viewing the contents of a file:
 
