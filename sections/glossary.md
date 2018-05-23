@@ -25,7 +25,7 @@
 
 *options* - see *flag*
 
-*prompt* -
+*prompt* - the `$` is known as the "prompt." It indicats that your command line is ready to receive commands.
 
 *pipeline* - in the command line, a pipeline is a sequence of processes. The output of one command feeds directly as input into the next command.
 
