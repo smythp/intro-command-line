@@ -27,7 +27,9 @@ Plain text has two main properties in regard to rich text:
 
 ""plain text is the underlying content stream to which formatting can be applied. Plain text is public, standardized, and universally readable."
 
-Plain text shows its cards -- if it's marked up, the markup will be human readable. Plain text can be moved between programs more fluidly and can respond to programmatic manipulations. Because it is not tied to a particular font or color or placement, plain text can be styled externally.
+Plain text shows its cards-- if it's marked up, the markup will be human readable. Plain text can be moved between programs more fluidly and can respond to programmatic manipulations. Because it is not tied to a particular font or color or placement, plain text can be styled externally.
+
+A counterpoint to plain text is rich text (sometimes denoted by the Microsoft rich text format ".rtf" file extension) or "enriched text" (sometimes seen as an option in email programs). In rich text files, plain text is elaborated with formatting specific to the program in which they are made.
 
 ## Text Editors
 
