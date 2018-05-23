@@ -11,23 +11,40 @@ What are the most salient take aways from the lesson?
 This is a good time to also do a quick review:
 
 In this session, we learned:
-- common commands to create files (`touch` and `echo`) 
-- learn commands to create directories (`mkdir`)
-- navigate our file structure using change directory (`cd`), print working directory (`pwd`), and list (`ls`)
-- move content from one place to another using redirects (`<`) and pipes (`|`)
-- explore a comma separated values (.csv) dataset using word and line counts, `head` and `tail`, and the concatenate command `cat`
-- search text files using the `grep` command
-- create and sort cheat sheets for the commands we learn
+- how to use `touch` and `echo` to create files 
+- how to use `mkdir` to create folders
+- how to navigate our file structure by `cd`(change directory), `pwd` (print working directory), and `ls` (list)
+- how to use redirects (`<`) and pipes (`|`) to create a pipeline
+- how to explore a comma separated values (.csv) dataset using word and line counts, `head` and `tail`, and the concatenate command `cat`
+- how to search text files using the `grep` command
 
-When we started, we reviewed what the difference was between a .txt and a .rtf file was. We learned that text editors that we want to use are a kind of software that doesn't allow for formatting of font, like color and size. Text editors are a different piece of software than Bash, which is a text-based shell that allows you to interact directly with your operating system giving direct input and receiving output. We learned commands that help you navigate your computer's file system.... (etc. etc.)
+When we started, we reviewed what text is -- whether plain or enriched. We learned that text editors that don't fix formatting of font, color, and size, do allow for more flexible manipulation and multi-program use. If text is allowed to be a string of characters (and not specific characters chosen for their compliance with a designer's intention), that text can be fed through programs and altered with automated regularity. Text editors are different software than Bash (or Terminal), which is a text-based shell that allows you to interact directly with your operating system giving direct input and receiving output. 
 
 ### Moving forward
 
-Connect skill to what's coming up
+What you have learned will be useful as you move forward through these tutorials. The command line will be immediately necessary for setting up your computer for version control with git in the next lesson! You'll find that knowing a few commands can help immeasurably as you find new tools to use.
+
+In the DHRI Zotero Library, you'll see articles discussing command line tools that people in the humanities often use like:
+
+[MALLET (MAchine Learning for LanguagE Toolkit)](http://mallet.cs.umass.edu/index.php)
+
+In a [folder](https://www.zotero.org/groups/1073865/cuny-neh_institute/items/collectionKey/9A27CIQN) in Day One, you will see articles about how and why you might want to use this tool. Once you get a sense of how machine learning works in your DHRI tutorial, you may want to explore this tool developed by and for digital humanities scholars.
+
+[Pandoc](https://pandoc.org/)
+
+The DHRI Zotero Library also includes articles about why plain text and markdown are good for academics and librarians. Pandoc calls itself a swiss army knife -- it can convert many formats (markdown, HTML, LaTeX, and more) into HTML formats, word processor formats, EPUBS, pdfs and more. Once you set up a workflow, you can use the same document to generate the various versions you might need for web and print. Pandoc is especially useful if you manage a publication which has both web and print manifestations. Pandoc can also integrate with Zotero enabling automated citation management.
+
+These are just a couple of tools that the command line makes available to you. The command line is also useful for setting up installations of platforms like [Omeka](https://omeka.org/), "open source web publishing platforms for sharing digital collections and creating media-rich online exhibits."
 
 ### What next?
 
-That's the end of the command line session, but if you want to continue to learn about the command line, take a look at the [other useful commands](other-commands.md) or [additional challenges](challenges.md).
+That's the end of the command line session, but if you want to continue to learn about the command line, take a look at 
+
+[other useful commands](other-commands.md) 
+
+or 
+
+[additional challenges](challenges.md).
 
 Here is another command line tutorial that will help you review and learn more.
 

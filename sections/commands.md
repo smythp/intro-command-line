@@ -41,3 +41,5 @@
 `mv` - Move or rename a file. For example, `mv file1 file2` will rename `file` to `file2`. You can also specify another destination, so that `mv file1 ~` will move file1 to the home folder without renaming it.
 
 Also check out [other useful commands](other-commands.md)
+
+[<<< Return to introduction](README.md)
