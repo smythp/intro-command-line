@@ -27,7 +27,7 @@
 
 *prompt* -
 
-*pipeline* - 
+*pipeline* - in the command line, a pipeline is a sequence of processes. The output of one command feeds directly as input into the next command.
 
 *root* - A word for the administrative user on a system. You often need administrative privileges to install programs or access certain system folders using the command line. You can tell you're root when your `$` prompt turns into a `#` prompt. To become root, type `su` and enter the password you use to log in. (No characters or asterisks will appear, just type your password and press enter.) You can also run a single command as root by typing `sudo` before the command.
 
@@ -39,6 +39,6 @@
 
 Find so much more on 
 
-[Bash manual](https://www.gnu.org/software/bash/manual/bashref.html) - the no nonsense text descriptions of bash commands
-[explain shell](https://explainshell.com/) - a site that explains commands you paste into the form.
+[Bash manual](https://www.gnu.org/software/bash/manual/bashref.html) - the no nonsense text descriptions of bash commands  
+[explain shell](https://explainshell.com/) - a site that explains commands you paste into the form.  
 [Easy shell guide](https://lucasviola.github.io/easyshell/) - a friendly, styled list of common commands
