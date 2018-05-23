@@ -42,7 +42,7 @@ These commands print out the first and last sections of the file respectively.
 
 ### Note: Clearing Text
 
-If all the text remaining in your terminal window is starting to overwhelm you, you have some options. Try `clear` or type `command` + `k` to clear the scrollback. In Mac OSX terminal, `command` + `l` will clear the output from your most recent command.
+If all the text remaining in your terminal window is starting to overwhelm you, you have some options. Try `clear` or type `command` + `k` to clear the scrollback. In Mac OS terminal, `command` + `l` will clear the output from your most recent command.
 
 ### Cleaning the data
 
@@ -53,7 +53,7 @@ $ cat nypl_items.csv | wc -l
 100001
 ```
 
-This tells us there are 100,001 lines in our file. The `wc` tool stands for "word count," but it can also count characters and lines in a file. We tell `wc` to count lines by using the `-l` flag. If we wanted to count characters, we could use `wc -m`.
+This tells us there are 100,001 lines in our file. The `wc` tool stands for "word count," but it can also count characters and lines in a file. We tell `wc` to count lines by using the `-l` flag. If we wanted to count characters, we could use `wc -m`. Flags marked with hyphens, `-l` or `-m`, indicate options which belong to specific commands. See the [glossary](sections/glossary.md) for more information about flags and options.
 
 To find and remove duplicate lines, we can use the `uniq` command. Let's try it out:
 
