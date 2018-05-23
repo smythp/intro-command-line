@@ -20,6 +20,8 @@ $ $ cat nypl_items.csv | grep -i "paris" | wc -l
 191
 ```
 
+Here we have asked `cat` to read nypl_items.csv, take the output and pipe it into the `grep` command, which will ignore capitalization and find all instances of the word "paris." We then pipe the output of that count into the word count `wc` utility with the `-l` lines option. The pipeline returns `191` letting us know that Paris (or paris) occurs on 191 lines of our dataset.
+
 ### Challenge
 
 Use the `grep` command to explore our .csv file a bit. What areas are best covered by the data set?
