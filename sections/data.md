@@ -20,14 +20,14 @@ When you are navigating in the command line, typing folder and file names can se
 
 Try using `cat` to look at the data. You'll find it all goes by too fast to get any sense of it. (You can do Control-C to cancel the output if it's taking too long.) 
 
-Instead, let's use another tool to get the data one page at a time:
+Instead, let's use another tool, the `less` command, to get the data one page at a time:
 
 ```
 $ less nypl_items.csv
 [...]
 ```
 
-This gives you a paginated view of the data. You can use `Control-v` and `Alt-v`to move down or up one page. (On Macs, use `<Command-v>` and `<Option-v>`.) Once you're done, hit `q` to return to the command line. 
+`Less` gives you a paginated view of the data; it will show you contents of a file or the output from a command or string of commands, page by page. You can use `Control-v` and `Alt-v`to move down or up one page. (On Macs, use `<Command-v>` and `<Option-v>`.) Once you're done, hit `q` to return to the command line. 
 
 Let's try two more commands for viewing the contents of a file:
 
@@ -42,7 +42,7 @@ These commands print out the first and last sections of the file respectively.
 
 ### Note: Clearing Text
 
-If all the text remaining in your terminal window is starting to overwhelm you, you have some options. Try `clear` or type `command` + `k` to clear the scrollback. In Mac OSX terminal, `command` + `l` will clear the output from your most recent command.
+If all the text remaining in your terminal window is starting to overwhelm you, you have some options. Try `clear` or type `command` + `k` to clear the scrollback. In Mac OS terminal, `command` + `l` will clear the output from your most recent command.
 
 ### Cleaning the data
 
@@ -53,7 +53,7 @@ $ cat nypl_items.csv | wc -l
 100001
 ```
 
-This tells us there are 100,001 lines in our file. The `wc` tool stands for "word count," but it can also count characters and lines in a file. We tell `wc` to count lines by using the `-l` flag. If we wanted to count characters, we could use `wc -m`.
+This tells us there are 100,001 lines in our file. The `wc` tool stands for "word count," but it can also count characters and lines in a file. We tell `wc` to count lines by using the `-l` flag. If we wanted to count characters, we could use `wc -m`. Flags marked with hyphens, `-l` or `-m`, indicate options which belong to specific commands. See the [glossary](sections/glossary.md) for more information about flags and options.
 
 To find and remove duplicate lines, we can use the `uniq` command. Let's try it out:
 

@@ -4,13 +4,13 @@
 
 #### Prefatory Pro Tip
 
-Go slow at first, and check your spelling!
+Go slow at first and check your spelling!
 
-One of the biggest things you can do to make sure your code runs correctly and you can use the command line successfully is to make sure you check your spelling! Keep this in mind today, this week, and your whole life. If at first something doesn't work, your spelling will be the first thing you check. Unlike in human reading, where letters operate simultaneously as atomistic symbols and as complex contingencies (check Johanna Drucker on the alphabet), in coding, each character has a discrete function. 
+One of the biggest things you can do to make sure your code runs correctly and you can use the command line successfully is to make sure you check your spelling! Keep this in mind today, this week, and your whole life. If at first something doesn't work, check your spelling first. Unlike in human reading, where letters operate simultaneously as atomistic symbols and as complex contingencies (check [Johanna Drucker](https://genius.com/Johanna-drucker-from-a-to-screen-annotated) on the alphabet), in coding, each character has a discrete function. 
 
 ### Getting started: know thyself
 
-You may also see your username to the left of the `$`. Let's try our first command. Type the following and press enter:
+You may also see your username to the left of the command prompt `$`. Let's try our first command. Type the following and press enter:
 
 ```
 $ whoami
@@ -46,21 +46,23 @@ You should get output like `/Users/jojo`. That means you're in the `jojo` direct
 
 The command `pwd` won't actually print anything except on your screen. This command is easier to grasp when we interpret "print" as "display."
 
-OK, we know where we are. But what if we want to know what files and folders are in the `jojo` directory, a.k.a. the working directory? Try entering:
+OK, we know where we are. But what if we want to know what files and folders are in the `jojo` directory, a.k.a. the working directory? 
+
+Try entering:
 
 ```
 $ ls
 ```
+You should see a number of folders, probably including `Documents`, `Desktop`, and so on. You may also see some files. These are the contents of the current working directory. `ls` will "list" the contents of the directory you are in.
 
-You should see a number of folders, probably including `Documents`, `Desktop`, and so on. You may also see some files. These are the contents of the current working directory. 
-
-I wonder what's in the Desktop folder? Let's try navigating to it with the following command:
+Wonder what's in the Desktop folder? Let's try navigating to it with the following command:
 
 ```
 $ cd Desktop
 ```
 
-(Make sure the "D" in "Desktop" is capitalized. ) If the command was successful, you won't see any output. This is normal—often, the command line will succeed silently. 
+The `cd` command lets us "change directory."  
+(Make sure the "D" in "Desktop" is capitalized. ) If the command was successful, you won't see any output. This is normal —- often, the command line will succeed silently. 
 
 So how do we know it worked? That's right, let's use our `pwd` command again. We should get:
 

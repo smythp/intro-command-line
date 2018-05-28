@@ -5,3 +5,4 @@
 __pycache__/
 .python-version
 push
+.DS_Store

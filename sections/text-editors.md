@@ -9,11 +9,27 @@ Before we explain which program we'll be using for editing text, we want to give
 
 ![Word Doc](worddoc.png)
 
-If opened in a text editor, this Word .docx file will look something like this
+If you ask the command line to read that file, this Word .docx file will look something like this
 
 ![Cat Word Doc](CatWordDoc.png)
 
-if you ask the commandline to read that file. Word documents which look like "just words!" are actually comprised of an archive of extensible markup language (XML) instructions that only Microsoft Word can read. Plaintext files can be opened in a number of different editors and can be read within the command line.
+Word documents which look like "just words!" are actually comprised of an archive of extensible markup language (XML) instructions that only Microsoft Word can read. Plain text files can be opened in a number of different editors and can be read within the command line.
+
+## Plain text
+
+For the purposes of communicating with machines and between machines, we need characters to be as flexible as possible. Plain text include characters of readable material but not graphical representation.
+
+According to the [Unicode Standard](https://www.unicode.org/versions/Unicode6.1.0/), 
+
+"Plain text is a pure sequence of character codes; plain Ue-encoded text is therefore a sequence of Unicode character codes."
+
+Plain text has two main properties in regard to rich text:
+
+""plain text is the underlying content stream to which formatting can be applied. Plain text is public, standardized, and universally readable."
+
+Plain text shows its cards-- if it's marked up, the markup will be human readable. Plain text can be moved between programs more fluidly and can respond to programmatic manipulations. Because it is not tied to a particular font or color or placement, plain text can be styled externally.
+
+A counterpoint to plain text is rich text (sometimes denoted by the Microsoft rich text format ".rtf" file extension) or "enriched text" (sometimes seen as an option in email programs). In rich text files, plain text is elaborated with formatting specific to the program in which they are made.
 
 ## Text Editors
 
@@ -23,7 +39,7 @@ While it doesn't really matter which text editor you choose, you should try to b
 
 ### Default Recommendation
 
-Choosing a text editor has as much to do with personality as it does with functionality. For our workshops, we will be using [Visual Studio Code](https://code.visualstudio.com/). Not only is Visual Studio Code free and open source, but it is also consistent across OSX, Windows, and Linux systems.
+Choosing a text editor has as much to do with personality as it does with functionality. Graphical user interfaces (GUIs), user options, and "hackability" vary from program to program. For our workshops, we will be using [Visual Studio Code](https://code.visualstudio.com/). Not only is Visual Studio Code free and open source, but it is also consistent across OSX, Windows, and Linux systems.
 
 Take a moment to download now. We won't be using the editor a lot in this tutorial, so don't worry about getting to know the editor now. In later workshops we will discuss syntax highlighting and version control, which Visual Studio Code supports. For now we will get back to working in the command line itself.
 
