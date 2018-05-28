@@ -1,8 +1,8 @@
 [<<< Previous](getting-to-the-command-line.md) | [Next >>>](creating-files-and-folders.md)
 
-## Navigation
+# Navigation
 
-#### Prefatory Pro Tip
+## Prefatory pro tip
 
 Go slow at first and check your spelling!
 
@@ -18,7 +18,7 @@ $ whoami
 
 The `whoami` command should print out your username. Congrats, you've executed your first command! This is a basic pattern of use in the command line: type a command and receive output.
 
-### Orienting yourself in the command line: folders
+## Orienting yourself in the command line: folders
 
 OK, we're going to try another command. But first, let's make sure we understand some things about how your computer's filesystem works.
 
@@ -76,7 +76,7 @@ Now try `ls` again to see what's on your desktop. These three commands—`pwd`, 
 
 Before we move on, let's take a minute to navigate through our computer's file system using the command line.
 
-# Challenge
+## Challenge
 
 Use the three commands you've just learned—`pwd`, `ls` and `cd`—eight (8) times each. Go poking around your Photos folder, or see what's so special about that root `/` directory. When you're done, come back to the home folder with 
 
@@ -92,7 +92,7 @@ cd ..
 
 which will move you one directory up in the filesystem. That's a `cd` with two periods after it.
 
-### Compare with the GUI
+## Compare with the GUI
 
 It's important to note that this is the same old information you can get by pointing and clicking displayed to you in a different way. 
 
@@ -100,6 +100,6 @@ Go ahead and use pointing and clicking to navigate to your working directory--yo
 
 [<<< Previous](getting-to-the-command-line.md) | [Next >>>](creating-files-and-folders.md)
   
-### Example:  
+## Example:
 
 ![Navigating the command line](nav.gif)

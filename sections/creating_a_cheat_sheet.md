@@ -1,10 +1,10 @@
 [<<< Previous](creating-files-and-folders.md) | [Next >>>](pipes.md)
 
-## Creating a cheat sheet
+# Creating a cheat sheet
 
 In this section, we'll create a text file that we can use as a cheat sheet. You can use it to keep track of all the awesome commands you're learning. 
 
-### `echo` command
+## `Echo`
 
 Instead of creating an empty file like we did with `touch`, let's try creating a file with some text in it. But first, let's learn a new command: `echo`
 
@@ -13,7 +13,7 @@ $ echo "Hello from the command line"
 Hello from the command line
 ```
 
-### Redirect command `>`
+## Redirect (`>`)
 
 By default, the echo command just prints out the text we give it. Let's use it to create a file with some text in it:
 
@@ -32,7 +32,7 @@ cheat-sheet.txt
 
 OK, so the file has been created. But what was the `>` in the command we used? On the command line, a `>` is known as a "redirect." It takes the output of a command and puts it in a file. Be careful, since it's possible to overwrite files with the `>` command.
 
-### `cat` command
+## `Cat`
 
 Let's check if there's any text in cheat-sheet.txt.
 
@@ -43,7 +43,7 @@ This is my cheat sheet
 
 As you can see, the `cat` command prints the contents of a file to the screen. `cat` stands for "concatenate," because it can concatenate strings of characters or files together.
 
-### A note on file naming
+## A note on file naming
 
 Your cheat sheet is titled `cheat-sheet.txt` instead of `cheat sheet.txt` for a reason. Can you guess why?
 
@@ -53,7 +53,7 @@ Now imagine you're attempting to open a very important data file using the comma
 
 For your digital best practices, we recommend making sure that file names contain no spaces--you can use creative capitalization, dashes, or underscores instead. 
 
-### Using a text editor
+## Using a text editor
 
 The challenge for this section will be using a text editor to add some of the commands that we've learned to the newly created cheat sheet. Text editors are programs that allow you to edit plain text files, such as .txt, .py (Python scripts), and .csv (spreadsheet files). Remember not to use programs such as Microsoft Word to edit text files, since they add invisible characters that can cause problems. 
 
@@ -84,6 +84,6 @@ change directory to home folder
 
 [<<< Previous](creating-files-and-folders.md) | [Next >>>](pipes.md)
 
-### Example
+## Example
 
 ![Creating a Cheat Sheet](cheat-sheet.gif)

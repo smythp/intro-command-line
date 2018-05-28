@@ -1,8 +1,8 @@
 [<<< Previous](navigation.md) | [Next >>>](creating_a_cheat_sheet.md)
 
-## Creating files and folders
+# Creating files and folders
 
-### Creating a file
+## Creating a file
 
 So far, we've only performed commands that give us information. Let's use a command that creates something on the computer. 
 
@@ -27,13 +27,13 @@ touch foo.txt
 
 If the command succeeds, you won't see any output. Now move the terminal window and look at your "real" desktop, the graphical one. See any differences? If the command was successful and you were in the right place, you should see an empty text file called "foo.txt" on the desktop. Pretty cool, right?
 
-#### Handy tip: up arrow
+## Handy tip: up arrow
 
 Let's say you liked that "foo.txt" file so much you'd like another! In the terminal window, press the "up arrow" on your keyboard. You'll notice this populates the line with the command that you just wrote. You can hit "Enter" to create another "foo.txt," (note - [`touch`](https://en.wikipedia.org/wiki/Touch_(Unix)) command will not overwrite your document nor will it add another document to the same directory, but it will update info about that file.) or you could use your left/right arrows to change the file name to "foot.txt" to create something different. 
 
 As we start to write more complicated and longer commands in our terminal, the "up arrow" is a great shortcut so you don't have to spend lots of time typing. 
 
-### Creating folders
+## Creating folders
 
 OK, so we're going to be doing a lot of work during the Digital Research Institute. Let's create a project folder in our home directory so that we can keep all our work in one place.
 
@@ -62,6 +62,6 @@ OK, now you've got a projects folder that you can use throughout the Institute. 
 
 [<<< Previous](navigation.md) | [Next >>>](creating_a_cheat_sheet.md)
 
-### Example
+## Example
 
 ![Creating files and folders](make-file-folder.gif)
