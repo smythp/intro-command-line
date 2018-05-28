@@ -10,7 +10,8 @@ While this new technique can seem intimidating if you haven't used text-based in
 
 In this session, we'll learn those common commands by exploring and manipulating a simple data set. By the end of the session, you'll be able to navigate your computer, create and manipulate files, and transform text-based data using only the command line. 
 
-[Get Started >>>](sections/what-is-the-command-line.md)
+[Get Started >>>](sections/what-is-the-command-line.md)  
+[Glossary >>>](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/command-line.md)  
 
 -----
 
@@ -24,8 +25,6 @@ In this session, we'll learn those common commands by exploring and manipulating
 [Pipes](sections/pipes.md)  
 [Exploring text data](sections/data.md)  
 [Searching text data](sections/grep.md)  
-
-
 
 ### Resources
 
