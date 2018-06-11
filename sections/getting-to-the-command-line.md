@@ -23,10 +23,12 @@ Bonus points: if you really want to get the groove of just typing instead of poi
 
 We won't be using Windows's own non-UNIX version of the command line. We installed Git Bash, following [these instructions](https://github.com/DHRI-Curriculum/install/blob/master/sections/git.md), so that we can work in the cross-platform Unix command line for this session. 
 
-1\. Look for Git Bash in your programs menu and open.
-2\. If you can't find the git folder, just type "git bash" in the search box and select "git bash" when it appears. 
-3\. Open the program. 
-4\. You know you're in the right place when you see the `$`.  
+1\. Look for Git Bash in your programs menu and open.  
+2\. If you can't find the git folder, just type "git bash" in the search box and select "git bash" when it appears.   
+3\. Open the program.   
+4\. You know you're in the right place when you see the `$`.    
+
+## Command prompt `$`
 
  `$`, which we will refer to as the "command prompt," is the place you type commands you wish the computer to execute. We will now learn some of the most common commands.
 
