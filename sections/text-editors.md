@@ -21,7 +21,7 @@ For the purposes of communicating with machines and between machines, we need ch
 
 According to the [Unicode Standard](https://www.unicode.org/versions/Unicode6.1.0/), 
 
-"Plain text is a pure sequence of character codes; plain Ue-encoded text is therefore a sequence of Unicode character codes."
+"Plain text is a pure sequence of character codes; plain Unicode-encoded text is therefore a sequence of Unicode character codes."
 
 Plain text has two main properties in regard to rich text:
 
