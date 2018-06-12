@@ -54,3 +54,8 @@
 
 `say "Hello there"` - Have your computer talk to you. (Use `espeak` on Linux.)
 
+Find so much more on the command line:
+
+[Bash manual](https://www.gnu.org/software/bash/manual/bashref.html) - the no nonsense text descriptions of bash commands.  
+[explain shell](https://explainshell.com/) - a site that explains commands you paste into the form. This site is fantastic for breaking down commands you find in the wild on the internet.  
+[Easy shell guide](https://lucasviola.github.io/easyshell/) - a friendly, styled (pastel!) list of common commands you might want to try out.
