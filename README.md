@@ -8,9 +8,8 @@ Today we're going to explore another way to make your computer do things: throug
 
 While this new technique can seem intimidating if you haven't used text-based interfaces before, luckily, you can use 90% of the functionality of the command line by becoming comfortable with a very small set of the most common commands.
 
-## Learning objectives  
-
 In this session, we will:
+
 - learn common commands to create files (`touch` and `echo`) 
 - learn commands to create directories (`mkdir`)
 - navigate our file structure using change directory (`cd`), print working directory (`pwd`), and list (`ls`)
@@ -19,7 +18,8 @@ In this session, we will:
 - search text files using the `grep` command
 - create and sort cheat sheets for the commands we learn
 
-[Get Started >>>](sections/what-is-the-command-line.md)
+[Get Started >>>](sections/what-is-the-command-line.md)  
+[Glossary >>>](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/command-line.md)  
 
 -----
 
@@ -33,8 +33,6 @@ In this session, we will:
 [Pipes](sections/pipes.md)  
 [Exploring text data](sections/data.md)  
 [Searching text data](sections/grep.md)  
-
-
 
 ### Resources
 

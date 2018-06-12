@@ -1,11 +1,11 @@
 [<<< Previous](grep.md)  
 [<<< Return to introduction](README.md)
 
-### Further challenges
+# Further challenges
 
 These challenges are ordered from easiest to hardest. Let [me](https://github.com/smythp) know you've completed them all and I'll give you a bag of candy! And no, it's not cheating if you ask for help.
 
-#### Challenge #1: Create hidden file
+## Challenge #1: create hidden file
 
 Use the `touch` command to create a hidden file. Hidden files have a `.` in front of them, like this:
 
@@ -19,7 +19,7 @@ hello.txt
 You can also create hidden folders this way, but you only need to create a file to pass the challenge. 
 
 
-### Challenge #2: Create an alias
+## Challenge #2: create an alias
 
 All these commands are great and all, but what if I want to make my own command? For example, maybe I want to make this happen:
 
@@ -36,13 +36,13 @@ $ alias peptalk="echo Good work"
 
 To pass this challenge, make your own alias that does something different.
 
-### Challenge #3: Make a permanent alias
+## Challenge #3: make a permanent alias
 
 So you made an alias, but you realized it goes away when you close and reopen the terminal. (So unfair.) Make your alias permanent.
 
 To do this, you will need to edit the configuration file that your terminal runs when it starts up. On Git Bash, that's going to be called `~/.bashrc`. (That's a `.bashrc` file in your home folder.) On OSX, the file is called `~/.bash_profile`. Just add the command you used to create the alias to the file with your text editor. Close and reopen the terminal to make sure your alias still works.
 
-### Challenge #4: Create your own shell script 
+## Challenge #4: create your own shell script 
 
 You're having fun with aliases, but are they REAL programs, or just glorified shortcuts?
 
@@ -81,7 +81,7 @@ Now run your program like this:
 $ ./goto-projects.sh
 ```
 
-### Challenge #5: Make your script run from anywhere
+## Challenge #5: make your script run from anywhere
 
 Last challenge! So you've made a real program in bash, you're probably feeling pretty proud of yourself. Deservedly so. But you still need to be in a folder with your program, and you still need to use that annoying `./` to run it. Let's make our program accessible from anywhere on the system by moving it to the `/bin` folder.
 
