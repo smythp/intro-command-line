@@ -85,11 +85,11 @@ $ ./goto-projects.sh
 
 ## Challenge #5: make your script run from anywhere
 
+### Mac OS
+
 Last challenge! So you've made a real program in bash, you're probably feeling pretty proud of yourself. Deservedly so. But you still need to be in a folder with your program, and you still need to use that annoying `./` to run it. Let's make our program accessible from anywhere on the system by moving it to the `/bin` folder.
 
 This challenge must be performed differently in Mac OS and in Windows using Git Bash.
-
-### Mac OS
 
 ```
 sudo mv goto-projects.sh /bin/goto-projects
@@ -105,6 +105,8 @@ from anywhere and see if that runs your script. If it does, congratulations! You
 
 ### Windows
 
+In this final challenge, we're going to write a real program in bash that can be used like any command on the command line.
+
 Since Git Bash doesn't come with a `sudo` command that allows us to perform actions on folders that require special permissions, we'll need to approach this final challenge a little differently.
 
 First, we'll need to open our text editor, VS Code, with special administrator permissions. Press the Windows button on your keyboard or click the start menu and type `Visual Studio Code` into the search box. Do not click or hit Enter to open VS Code. Instead, right click on the VS Code icon and select the `Run as Administrator` option from the dropdown menu. If you are prompted to allow the program to be run with administrator privileges, select `Yes`.
@@ -118,18 +120,18 @@ cd ~/Desktop/projects
 echo "Now you're in $(pwd)"
 ```
 
-The first line of the program is a special line that lets the command line know which program to use to run the script. The other lines are bash (command line) commands that will be run one after the other when our bash script is executed. As you may be able to tell, this script will first go to our Desktop folder and then print out a message letting us know where we are.
+The first line of the program is a special line that lets the command line know which program to use to run the script. The other lines are bash (command line) commands that will be run one after the other when our bash script is executed. As you may be able to guess, this script will first go to our Desktop folder and then print out a message letting us know where we are.
 
-Once our script is written out, save it in the following folder:
+Once our script is written out, save it in the following folder on your system:
 
 	c:\Program Files\Git\usr\bin
 	
 This is a folder where Git Bash looks to determine which commands are available when it starts up. Enter `goto-projects` as the filename, and VS Code should automatically add a `.sh` extension, indicating that the file is a bash script.
 
-Close are reopen Git Bash. You should now be able to run your new command by typing
+Close and reopen Git Bash. You should now be able to run your new command by typing
 
 	goto-projects.sh
 	
-at the `$` prompt.
+at the `$` prompt. If the command isn't appearing, you may want to use Git Bash to navigate to the `/usr/bin` folder and use `ls` to see if the command was saved correctly and what it is called.
 
 [<<< Return to introduction](README.md)
