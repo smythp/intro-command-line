@@ -37,7 +37,7 @@ In this session, we will:
 ### Resources
 
 [Commands cheat sheet](sections/commands.md)  
-[More on text editors](sections/text-editors.md)  
+[More on text editors](sections/text-editors-ides.md)  
 [Other useful commands](sections/other-commands.md)  
 [Further challenges](sections/challenges.md)  
 [Glossary](sections/glossary.md)  
