@@ -31,7 +31,7 @@
 
 *root* - A word for the administrative user on a system. You often need administrative privileges to install programs or access certain system folders using the command line. You can tell you're root when your `$` prompt turns into a `#` prompt. To become root, type `su` and enter the password you use to log in. (No characters or asterisks will appear, just type your password and press enter.) You can also run a single command as root by typing `sudo` before the command.
 
-*syntax* - with computers, the syntax refers to the rules by which a command must be run so that the software can understand it. Some commands *need* an argument to follow the command. For example `mv` will only work if you provide the source file that you intend to move and the directory destination. 
+*path* - A list of folders on your system that are checked for programs to generate the list of commands available on the command line. For example, since the folder `/bin` is typically on the path, putting an executable program in that folder will make it available as a command.
 
 *UNIX* - A family of operating systems that have a multi-user model and a particular design philosophy. Both OSX and Linux are UNIXes. Windows is not.
 
