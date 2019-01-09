@@ -27,7 +27,7 @@ $ less nypl_items.csv
 [...]
 ```
 
-`Less` gives you a paginated view of the data; it will show you contents of a file or the output from a command or string of commands, page by page. You can use `Control-v` and `Alt-v`to move down or up one page. (On Macs, use `<Command-v>` and `<Option-v>`.) Once you're done, hit `q` to return to the command line. 
+`Less` gives you a paginated view of the data; it will show you contents of a file or the output from a command or string of commands, page by page. You may use the following keyboard shortcut: simultaneously click the `Control` and `V` keys, or the `Alt` and `V` keys, to move down or up one page. (On Macs, click the `Command` and `V` keys, and the `Option` and `V` keys.) Once you're done, hit `q` to return to the command line. 
 
 Let's try two more commands for viewing the contents of a file:
 
