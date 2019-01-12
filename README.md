@@ -13,7 +13,7 @@ In this session, we will:
 - learn common commands to create files (`touch` and `echo`) 
 - learn commands to create directories (`mkdir`)
 - navigate our file structure using change directory (`cd`), print working directory (`pwd`), and list (`ls`)
-- move content from one place to another using redirects (`<`) and pipes (`|`)
+- move content from one place to another using redirects (`>`) and pipes (`|`)
 - explore a comma separated values (.csv) dataset using word and line counts, `head` and `tail`, and the concatenate command `cat`
 - search text files using the `grep` command
 - create and sort cheat sheets for the commands we learn
@@ -44,8 +44,8 @@ In this session, we will:
 
 -----
 
-Session Leader: Jojo Karlin  
-Based on previous work by Patrick Smyth and Mary Catherine McKinniburgh
+Session Leader: Kelsey Chatlosh    
+Based on previous work by Patrick Smyth, Mary Catherine McKinniburgh, and Jojo Karlin  
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
