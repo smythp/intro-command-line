@@ -1,4 +1,4 @@
-[<<< Previous] | [Next >>>](summary.md)  
+[<<< Previous](data.md) | [Next >>>](summary.md)  
 
 # Searching text data
 
