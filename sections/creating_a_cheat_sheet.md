@@ -32,6 +32,8 @@ cheat-sheet.txt
 
 OK, so the file has been created. But what was the `>` in the command we used? On the command line, a `>` is known as a "redirect." It takes the output of a command and puts it in a file. Be careful, since it's possible to overwrite files with the `>` command.
 
+If you want to add text to a file but *not* overwrite it, you can use the `>>` command, known as the redirect and append command, instead. If there's already a file with text in it, this command can add text to the file *without* destroying and recreating it.
+
 ## `Cat`
 
 Let's check if there's any text in cheat-sheet.txt.
