@@ -33,6 +33,7 @@ In this session, we will:
 [Pipes](sections/pipes.md)  
 [Exploring text data](sections/data.md)  
 [Searching text data](sections/grep.md)  
+[Summary of what we've covered](sections/summary.md)  
 
 ### Resources
 
