@@ -24,9 +24,15 @@ Having a grasp of command line basics will not only make you more familiar with 
 
 What you have learned will be useful as you move forward through these tutorials. The command line will be immediately necessary for setting up your computer for version control with git in [the next lesson](https://github.com/DHRI-Curriculum/git)! You'll find that knowing a few commands can help immeasurably as you find new tools to use.
 
+In the [DHRI Zotero Library](https://www.zotero.org/groups/2164386/digital_humanities_research_institute), you'll see articles discussing command line tools that people in the humanities often use like:
+
+[MALLET (MAchine Learning for LanguagE Toolkit)](http://mallet.cs.umass.edu/index.php)
+
+The DHRI Zotero Library includes articles about how and why you might want to use MALLET. If you complete [our machine learning workshop](https://github.com/DHRI-Curriculum/machine-learning) and get a sense of how it works, you may want to explore this tool developed by and for digital humanities scholars.  
+
 [Pandoc](https://pandoc.org/)
 
-Plain text and markdown can be great for academics and librarians. Pandoc calls itself a swiss army knife--it can convert many formats (markdown, HTML, LaTeX, and more) into HTML formats, word processor formats, EPUBS, pdfs, and more. Once you set up a workflow, you can use the same document to generate the various versions you might need for web and print. Pandoc is especially useful if you manage a publication which has both web and print manifestations. Pandoc can also integrate with [Zotero citational software](https://www.zotero.org/) enabling automated citation management. (Imagine updating a reference in your Zotero Library so that it automatically updates all your citations in all your documents!)
+The [DHRI Zotero Library](https://www.zotero.org/groups/2164386/digital_humanities_research_institute) also includes articles about why plain text and markdown are good for academics and librarians. Pandoc calls itself a swiss army knife--it can convert many formats (markdown, HTML, LaTeX, and more) into HTML formats, word processor formats, EPUBS, pdfs, and more. Once you set up a workflow, you can use the same document to generate the various versions you might need for web and print. Pandoc is especially useful if you manage a publication which has both web and print manifestations. Pandoc can also integrate with [Zotero citational software](https://www.zotero.org/) enabling automated citation management. (Imagine updating a reference in your Zotero Library so that it automatically updates all your citations in all your documents!)
 
 These are just a couple of tools that the command line makes available to you. The command line is also useful for setting up installations of platforms like [Omeka](https://omeka.org/), "open source web publishing platforms for sharing digital collections and creating media-rich online exhibits"--which [we are teaching](https://github.com/GCDigitalFellows/omeka/) later this week!  If you want to create an Omeka site, you'll need to know how to navigate the file structure of your server. Commands like ls, mkdir, rmdir, cd, etc. are really important. For example, `grep` could help you find a plugin directory that you might have accidentally placed in the wrong location.
 
