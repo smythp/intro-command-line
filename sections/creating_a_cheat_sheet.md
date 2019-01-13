@@ -57,15 +57,17 @@ For your digital best practices, we recommend making sure that file names contai
 
 ## Using a text editor
 
-The challenge for this section will be using a text editor to add some of the commands that we've learned to the newly created cheat sheet. Text editors are programs that allow you to edit plain text files, such as .txt, .py (Python scripts), and .csv (comma-separated values, also known as spreadsheet files). Remember not to use programs such as Microsoft Word to edit text files, since they add invisible characters that can cause problems. 
+The challenge for this section will be using a text editor, specifically Visual Studio Code ([install guide here](https://github.com/DHRI-Curriculum/install/blob/master/sections/vscode.md)), to add some of the commands that we've learned to the newly created cheat sheet. Text editors are programs that allow you to edit plain text files, such as .txt, .py (Python scripts), and .csv (comma-separated values, also known as spreadsheet files). Remember not to use programs such as Microsoft Word to edit text files, since they add invisible characters that can cause problems. 
 
 ## Challenge
 
-From your programs menu, via Finder or Applications or Launchpad in Mac OSX, or via the Windows button in Windows, open your Visual Studio Code text editor:
+You *could* use the GUI to open your Visual Studio Code text editor--from your programs menu, via Finder or Applications or Launchpad in Mac OSX, or via the Windows button in Windows--and then click "File" and then "Open" from the drop-down menu and navigate to your Desktop folder and click to open the cheat-sheet.txt file. 
+
+*OR*, you can open that specific cheat-sheet.txt file in the Visual Studio Code text editor directly from the command line! Let's try that by using the `code` command in the command line:
 
 	code cheat-sheet.txt
 
-Type to add the commands we've learned so far to the file. Include descriptions about what each command does. Remember—this cheat sheet is for you. Write descriptions that make sense to you or take notes about questions.
+Now that you've got your cheat sheet open in the Visual Studio Code text editor, type to add the commands we've learned so far to the file. Include descriptions about what each command does. Remember, this cheat sheet is for you. Write descriptions that make sense to you or take notes about questions.
 
 Save the file.
 
