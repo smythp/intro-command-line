@@ -29,9 +29,9 @@ If the command succeeds, you won't see any output. Now move the terminal window 
 
 ## Handy tip: up arrow
 
-Let's say you liked that "foo.txt" file so much you'd like another! In the terminal window, press the "up arrow" on your keyboard. You'll notice this populates the line with the command that you just wrote. You can hit "Enter" to create another "foo.txt," (note - [`touch`](https://en.wikipedia.org/wiki/Touch_(Unix)) command will not overwrite your document nor will it add another document to the same directory, but it will update info about that file.) or you could use your left/right arrows to change the file name to "foot.txt" to create something different. 
+Let's say you liked that "foo.txt" file so much you'd like another! In the terminal window, press the `↑` (up arrow) key on your keyboard. You'll notice this populates the line with the command that you just wrote. You can then click the `Enter` key to create another "foo.txt," *but* the [`touch`](https://en.wikipedia.org/wiki/Touch_(Unix)) command will not overwrite your document nor will it add another document of the same file name to the same directory; it will just update info about that file. If you want to create a *new separate file*, you could use your `←` or `→` (left or right arrow) keys to change the file name to "foot.txt" and thus create a new file with a different name in that same directory. 
 
-As we start to write more complicated and longer commands in our terminal, the "up arrow" is a great shortcut so you don't have to spend lots of time typing. 
+As we start to write more complicated and longer commands in our terminal, the `↑` (up arrow) key is a great shortcut so you don't have to spend lots of time typing out the same commands again and again. 
 
 ## Creating folders
 
