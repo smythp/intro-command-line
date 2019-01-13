@@ -41,7 +41,7 @@ cat cheat-sheet.txt
 This is my cheat sheet
 ```
 
-As you can see, the `cat` command prints the contents of a file to the screen. `cat` stands for "concatenate," because it can concatenate strings of characters or files together.
+As you can see, the `cat` command prints the contents of a file to the screen. `cat` stands for "concatenate," because it can link strings of characters or files together from end to end.  
 
 ## A note on file naming
 
@@ -51,19 +51,19 @@ Try to make a file titled `cheat sheet.txt` and report to the class what happens
 
 Now imagine you're attempting to open a very important data file using the command line that is titled `cheat sheet.txt`. 
 
-For your digital best practices, we recommend making sure that file names contain no spaces--you can use creative capitalization, dashes, or underscores instead. 
+For your digital best practices, we recommend making sure that file names contain no spaces--you can use creative capitalization, dashes, or underscores instead. Just keep in mind that the OS and Unix file systems are usually pre-configured as cAsE-pReSeRvInG, which means that capitalization matters when you type commands to navigate between or do things to directories and files.  
 
 ## Using a text editor
 
-The challenge for this section will be using a text editor to add some of the commands that we've learned to the newly created cheat sheet. Text editors are programs that allow you to edit plain text files, such as .txt, .py (Python scripts), and .csv (spreadsheet files). Remember not to use programs such as Microsoft Word to edit text files, since they add invisible characters that can cause problems. 
+The challenge for this section will be using a text editor to add some of the commands that we've learned to the newly created cheat sheet. Text editors are programs that allow you to edit plain text files, such as .txt, .py (Python scripts), and .csv (comma-separated values, also known as spreadsheet files). Remember not to use programs such as Microsoft Word to edit text files, since they add invisible characters that can cause problems. 
 
 ## Challenge
 
-From your programs menu, via Finder or Applications or Launchpad in Mac OSX, via Windows button in Windows, open your Visual Studio Code text editor:
+From your programs menu, via Finder or Applications or Launchpad in Mac OSX, or via the Windows button in Windows, open your Visual Studio Code text editor:
 
 	code cheat-sheet.txt
 
-Type to add the commands we've learned so far to the file. Include descriptions about what each command does. Remember -- this cheat sheet is for you. Write descriptions that make sense to you or take notes about questions.
+Type to add the commands we've learned so far to the file. Include descriptions about what each command does. Remember—this cheat sheet is for you. Write descriptions that make sense to you or take notes about questions.
 
 Save the file.
 
