@@ -93,7 +93,7 @@ The `uniq` command with the `-d` flag prints out the lines that have duplicates.
 
 ### Challenge
 
-Use the commands you've learned so far to create a new version of the `nypl_items.txt` file. (Hint: [redirects](creating_a_cheat_sheet.md) are your friend.)
+Use the commands you've learned so far to create a new version of the `nypl_items.csv` file. (Hint: [redirects](creating_a_cheat_sheet.md) are your friend.)
 
 [<<< Previous](pipes.md) | [Next >>>](grep.md)
 
