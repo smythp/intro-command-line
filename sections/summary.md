@@ -40,11 +40,13 @@ These are just a couple of tools that the command line makes available to you. T
 
 That's the end of the command line session, but if you want to continue to learn about the command line, take a look at 
 
-[other useful commands](other-commands.md) 
+[other useful commands](other-commands.md), 
+
+[additional challenges](challenges.md),
 
 or 
 
-[additional challenges](challenges.md).
+review [our glossary for the command line](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/command-line.md).   
 
 Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to review and learn more.
 
