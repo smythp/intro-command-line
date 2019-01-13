@@ -8,14 +8,24 @@ Let's download the data we're going to work with:
 
 [Download nypl_items.csv](http://smythp.com/hosted/nypl_items.csv)
 
+Our data set is a list of public domain items from the New York Public Library. It's in .csv format, which is a plain text spreadsheet format. CSV stands for "comma separated values," and each field in the spreadsheet is separated with a comma. It's all still plain text, though, so we can manipulate the data using the command line.
+
+### Move command  
+
 Once the file is downloaded, move it from your `Downloads` folder to the `projects` folder on your desktop--either through the command line, or drag and drop in the GUI. Since this is indeed a command line workshop, you should try the former! 
 
-You first need to navigate to your `Downloads` folder in the command line. Then type the `mv` command followed by the name of the file and then the file path to your `projects` folder on your desktop:
+You first need to navigate to your `Downloads` folder in the command line. Then type the `mv` command followed by the name of the file and then the file path to your `projects` folder on your desktop. 
+
+On a Mac, the command you should type is:
 ```
 mv nypl_items.csv ~/Desktop/projects/  
 ```
 
-Our data set is a list of public domain items from the New York Public Library. It's in .csv format, which is a plain text spreadsheet format. CSV stands for "comma separated values," and each field in the spreadsheet is separated with a comma. It's all still plain text, though, so we can manipulate the data using the command line.
+On a PC, the file path part of this command is a bit different, so the command you should type should be something like this, with your own user name inserted in:
+```
+mv nypl_items.csv /c/Users/jojokarlin/Desktop/projects  
+```
+Luckily, once you've navigated to the that `projects` folder in the command line, this direct file path should appear on the top of your command line shell and you can type it out into this command--beginning with "/c/".  
 
 ### Interlude for Jojo's favorite command line feature: tab completion.
 
@@ -34,9 +44,8 @@ $ less nypl_items.csv
 
 `Less` gives you a paginated view of the data; it will show you contents of a file or the output from a command or string of commands, page by page. 
 
-To view the file contents page by page, you may use the following keyboard shortcuts: 
-On Windows (using Git Bash), simultaneously click the `Control` and `V` keys to view forward one page, or the `Alt` and `V` keys to view back one page. 
-On Macs, click the `f` key to view forward one page, or the `b` key to view back one page. 
+To view the file contents page by page, you may use the following keyboard shortcuts (that should work on Windows using Git Bash or on Mac): 
+Click the `f` key to view forward one page, or the `b` key to view back one page. 
 
 Once you're done, click the `q` key to return to the command line. 
 
@@ -49,7 +58,7 @@ $ tail nypl_items.csv
 [...]
 ```
 
-These commands print out the first and last sections of the file respectively.
+These commands print out the very first (the "head") and very last (the "tail") sections of the file, respectively.
 
 ### Note: Clearing Text
 
