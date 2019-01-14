@@ -14,18 +14,11 @@ Our data set is a list of public domain items from the New York Public Library. 
 
 Once the file is downloaded, move it from your `Downloads` folder to the `projects` folder on your desktop--either through the command line, or drag and drop in the GUI. Since this is indeed a command line workshop, you should try the former! 
 
-You first need to navigate to your `Downloads` folder in the command line. Then type the `mv` command followed by the name of the file and then the file path to your `projects` folder on your desktop. 
-
-On a Mac, the command you should type is:
+To move this file using the command line, you first need to navigate to your `Downloads` folder where that file is saved. Then type the `mv` command followed by the name of the file you want to move and then the file path to your `projects` folder on your desktop, which is where you want to move that file to (note that `~` refers to your home folder):
 ```
 mv nypl_items.csv ~/Desktop/projects/  
-```
-
-On a PC, the file path part of this command is a bit different, so the command you should type should be something like this, with your own user name inserted in:
-```
-mv nypl_items.csv /c/Users/jojokarlin/Desktop/projects  
-```
-Luckily, once you've navigated to the that `projects` folder in the command line, this direct file path should appear on the top of your command line shell and you can type it out into this command--beginning with "/c/".  
+``` 
+You can then navigate to that `projects` folder and use the `ls` command to check that the file is now there.  
 
 ### Interlude for Jojo's favorite command line feature: tab completion.
 
