@@ -20,10 +20,6 @@ mv nypl_items.csv ~/Desktop/projects/
 ``` 
 You can then navigate to that `projects` folder and use the `ls` command to check that the file is now there.  
 
-### Interlude for Jojo's favorite command line feature: tab completion.
-
-When you are navigating in the command line, typing folder and file names can seem to go against the promise of easier communication with your computer. Here comes `tab` completion, stage right. So far, I've been asking you to type everything carefully, paying close attention to your spelling. The way tab completion works is that it fills in—*correctly*—the remaining characters of a file you begin typing. It only works from the point that a file name is distinct—so if you have intro-to-command-line1.txt and intro-to-commandline2.txt, it will only go as far as it can. This trick can help immensely as it will only work if the file already exists. So you can type as much of the file name that is unique within that directory, and `tab` complete the rest!  
-
 ### Viewing data in the command line
 
 Try using `cat` to look at the data. You'll find it all goes by too fast to get any sense of it. (You can click `Control` and `C` on your keyboard to cancel the output if it's taking too long.) 
@@ -52,6 +48,14 @@ $ tail nypl_items.csv
 ```
 
 These commands print out the very first (the "head") and very last (the "tail") sections of the file, respectively.
+
+### Interlude for Jojo's favorite command line feature: tab completion.
+
+When you are navigating in the command line, typing folder and file names can seem to go against the promise of easier communication with your computer. Here comes `tab` completion, stage right! 
+
+When you need to type out a file or folder name--for example, the name of that csv file we've been working with: nypl_items.csv--in the command line and want to move more quickly, you can just type out the beginning characters of that file name up until it's distinct in that folder and then click the `tab` key. And voilà! Clicking that `tab` key will complete the rest of that name for you, and it only works if that file or folder already exists within your working directory. 
+
+In other words, anytime in the command line you can type as much of the file or folder name that is unique within that directory, and `tab` complete the rest!  
 
 ### Note: Clearing Text
 
