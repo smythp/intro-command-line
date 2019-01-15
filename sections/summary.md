@@ -51,6 +51,6 @@ review [our glossary for the command line](https://github.com/DHRI-Curriculum/gl
 Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to review and learn more.
 
 [<<< Previous](grep.md)  
-[<<< Return to introduction](README.md)
+[<<< Return to introduction](https://github.com/DHRI-Curriculum/command-line/)
 
 
