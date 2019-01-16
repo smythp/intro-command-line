@@ -14,13 +14,13 @@ Also, while copying and pasting from this handy tutorial may be tempting to avoi
 
 ### Getting started: know thyself
 
-You may also see your username to the left of the command prompt `$`. Let's try our first command. Type the following and press enter:
+You may also see your username to the left of the command prompt `$`. Let's try our first command. Type the following and press the `enter` key:
 
 ```
 $ whoami
 ```
 
-The `whoami` command should print out your username. Congrats, you've executed your first command! This is a basic pattern of use in the command line: type a command and receive output.
+The `whoami` command should print out your username. Congrats, you've executed your first command! This is a basic pattern of use in the command line: type a command, press `enter` on your keyboard, and receive output.
 
 ## Orienting yourself in the command line: folders
 
