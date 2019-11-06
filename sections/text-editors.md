@@ -19,7 +19,7 @@ Word documents which look like "just words!" are actually comprised of an archiv
 
 For the purposes of communicating with machines and between machines, we need characters to be as flexible as possible. Plain text include characters of readable material but not graphical representation.
 
-According to the [Unicode Standard](https://www.unicode.org/versions/Unicode6.1.0/), 
+According to the [Unicode Standard](https://www.unicode.org/versions/Unicode12.1.0/), 
 
 "Plain text is a pure sequence of character codes; plain Unicode-encoded text is therefore a sequence of Unicode character codes."
 
