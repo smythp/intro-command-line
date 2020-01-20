@@ -1,5 +1,5 @@
 [<<< Previous](grep.md)  
-[<<< Return to introduction](README.md)
+[<<< Return to introduction](../README.md)
 
 ## Commands
 
@@ -42,4 +42,4 @@
 
 Also check out [other useful commands](other-commands.md)
 
-[<<< Return to introduction](README.md)
+[<<< Return to introduction](../README.md)
