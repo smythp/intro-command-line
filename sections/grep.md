@@ -16,7 +16,7 @@ $ cat nypl_items.csv | grep -i "paris"
 This will print out all the lines that contain the word "Paris." (The `-i` flag makes the command ignore capitalization.) Let's use our `wc -l` command to see how many lines that is:
 
 ```
-$ $ cat nypl_items.csv | grep -i "paris" | wc -l
+$ cat nypl_items.csv | grep -i "paris" | wc -l
 191
 ```
 
