@@ -42,5 +42,5 @@ When you're done typing to add text to the file, you can save the file by perfor
 
 As mentioned above, IDEs offer more functions for testing code and running programs. Depending on the amount and type of programming you are doing, an IDE might be overkill. The [IDE Index](http://pypl.github.io/IDE.html) shows relative popularity of editors and IDEs based on search frequency.
 
-- **[IDLE]()https://docs.python.org/2/library/idle.html** - The default Python IDE that comes bundled with every download of Python. Simple to use and good for beginners to Python. Not very polished and lacks advanced features.
+- **[IDLE](https://docs.python.org/2/library/idle.html)** - The default Python IDE that comes bundled with every download of Python. Simple to use and good for beginners to Python. Not very polished and lacks advanced features.
 - **Spyder** and **PyCharm** - These are Python-specific IDEs. They have more bells and whistles than a standard text editor like Textwrangler, but they're meant specifically for working with Python. Spyder is free and comes bundled with Anaconda. PyCharm is not free, but some people prefer it for working with Python on the web. 
