@@ -1,5 +1,5 @@
 [<<< Previous](grep.md)  
-[<<< Return to introduction](README.md)
+[<<< Return to introduction](../README.md)
 
 # Further challenges
 
@@ -136,4 +136,4 @@ Close and reopen Git Bash. You should now be able to run your new command by typ
 	
 at the `$` prompt. If the command isn't appearing, you may want to use Git Bash to navigate to the `/usr/bin` folder and use `ls` to see if the command was saved correctly and what it is called.
 
-[<<< Return to introduction](README.md)
+[<<< Return to introduction](../README.md)
