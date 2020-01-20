@@ -42,6 +42,8 @@ So you made an alias, but you realized it goes away when you close and reopen th
 
 To do this, you will need to edit the configuration file that your terminal runs when it starts up. On Git Bash, that's going to be called `~/.bashrc`. (That's a `.bashrc` file in your home folder.) On OSX, the file is called `~/.bash_profile`. Just add the command you used to create the alias to the file with your text editor. Close and reopen the terminal to make sure your alias still works.
 
+**Note to Windows users:** This could present a challenge, as `.bashrc` may not be created for you by default, and if you create it, Git Bash may not recognize it. [A Stack Overflow question here](https://stackoverflow.com/questions/6883760/git-for-windows-bashrc-or-equivalent-configuration-files-for-git-bash-shell) addresses the potential challenges.
+
 ## Challenge #4: create your own shell script 
 
 Due to platform differences, Windows users should skip directly to Challenge #5.
