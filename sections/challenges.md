@@ -1,9 +1,9 @@
 [<<< Previous](grep.md)  
-[<<< Return to introduction](../README.md)
+[<<< Return to introduction](README.md)
 
 # Further challenges
 
-These challenges are ordered from easiest to hardest. No, it's not cheating if you ask for help.
+These challenges are ordered from easiest to hardest. Let [me](https://github.com/smythp) know you've completed them all and I'll give you a bag of candy! And no, it's not cheating if you ask for help.
 
 ## Challenge #1: create hidden file
 
@@ -42,8 +42,6 @@ So you made an alias, but you realized it goes away when you close and reopen th
 
 To do this, you will need to edit the configuration file that your terminal runs when it starts up. On Git Bash, that's going to be called `~/.bashrc`. (That's a `.bashrc` file in your home folder.) On OSX, the file is called `~/.bash_profile`. Just add the command you used to create the alias to the file with your text editor. Close and reopen the terminal to make sure your alias still works.
 
-**Note to Windows users:** This could present a challenge, as `.bashrc` may not be created for you by default, and if you create it, Git Bash may not recognize it. [A Stack Overflow question here](https://stackoverflow.com/questions/6883760/git-for-windows-bashrc-or-equivalent-configuration-files-for-git-bash-shell) addresses the potential challenges.
-
 ## Challenge #4: create your own shell script 
 
 Due to platform differences, Windows users should skip directly to Challenge #5.
@@ -60,7 +58,7 @@ Under that, write some lines of bash that you want to be executed. How about a p
 
 ```
 cd ~/Desktop/projects
-echo "Now you're in $(pwd)"
+echo "Now you're in $PWD"
 ```
 
 Your script should look like this when you're done.
@@ -70,7 +68,7 @@ goto-projects.sh:
 #!/bin/bash
 
 cd ~/Desktop/projects
-echo "Now you're in $(pwd)"
+echo "Now you're in $PWD"
 ```
 
 Now run this command to make your script executable. This gives your computer permission to run it as a program:
@@ -136,4 +134,4 @@ Close and reopen Git Bash. You should now be able to run your new command by typ
 	
 at the `$` prompt. If the command isn't appearing, you may want to use Git Bash to navigate to the `/usr/bin` folder and use `ls` to see if the command was saved correctly and what it is called.
 
-[<<< Return to introduction](../README.md)
+[<<< Return to introduction](README.md)
