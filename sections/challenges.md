@@ -60,7 +60,7 @@ Under that, write some lines of bash that you want to be executed. How about a p
 
 ```
 cd ~/Desktop/projects
-echo "Now you're in $(pwd)"
+echo "Now you're in $PWD"
 ```
 
 Your script should look like this when you're done.
@@ -70,7 +70,7 @@ goto-projects.sh:
 #!/bin/bash
 
 cd ~/Desktop/projects
-echo "Now you're in $(pwd)"
+echo "Now you're in $PWD"
 ```
 
 Now run this command to make your script executable. This gives your computer permission to run it as a program:
